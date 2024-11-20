@@ -70,3 +70,14 @@ Note: This a continuous process for every changes.
 - Scalability
 - Reliability
 - Security
+
+## Common System Design Concepts
+
+- Application Architectures
+- Computer Networking
+- OSI (Open System Interconnection) Model
+- Synchronous / Asynchronous Communication between services
+- Server Scaling, Clustering, And lead balancing
+- Caching and CDN
+- Scaling Database
+- Fault tolerance, failure and disaster recovery
