@@ -2,7 +2,7 @@
 
 => Learning Step (Must be backend engineer know)
 
-### Application Architecture
+## Application Architecture
 
 - Monolithic
 - N-Tier
@@ -12,7 +12,7 @@
 - Cloud Native
 - Serverless
 
-### High Performant Code
+## High Performant Code
 
 - Data Structures
 - Algorithms
@@ -23,7 +23,7 @@
 - Scalable code
 - testing
 
-### Cloud Computing
+## Cloud Computing
 
 - Linux
 - SSh
@@ -33,12 +33,12 @@
 - Networking
 - Virtual Private Clode (VPC) - Most important
 
-### Devops
+## Devops
 
 - Development
 - Deployment
 
-## Working Process
+### Working Process
 
 - Write Code
 - Test the code locally
@@ -48,7 +48,7 @@
 - deploy the code
 - monitor
 
-## Devops Process
+### Devops Process
 
 - Write code
 - Push to github
