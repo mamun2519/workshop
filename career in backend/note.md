@@ -1,6 +1,6 @@
-### Journey to Become a Backend Engineer
+# Journey to Become a Backend Engineer
 
-# Application Architecture
+### Application Architecture
 
 - Monolitic
 - N-Tier
@@ -10,7 +10,7 @@
 - Cloud Native
 - Serverless
 
-# High Performant Code
+### High Performant Code
 
 - Data Structures
 - Algorithms
