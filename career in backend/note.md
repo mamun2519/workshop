@@ -25,8 +25,10 @@
 
 ### Cloud Computing
 
+- Linux
+- SSh
 - Computer / Vm
 - storage
 - database
 - Networking
-- Vercual Private Clode (VPC) - Most important
+- Virtual Private Clode (VPC) - Most important
