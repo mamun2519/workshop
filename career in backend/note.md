@@ -63,3 +63,10 @@ Note: This a continuous process for every changes.
 ## Distribution Phase
 
 ⇒ Distribution Decides Everything
+
+### System Design
+
+- Performance
+- Scalability
+- Reliability
+- Security
