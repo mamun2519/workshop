@@ -81,3 +81,11 @@ Note: This a continuous process for every changes.
 - Caching and CDN
 - Scaling Database
 - Fault tolerance, failure and disaster recovery
+  Reference: https://github.com/karanpratapsingh/system-design
+
+## Backend Boundary
+
+- Development
+- Deployment
+- Distribution
+- DevOps
