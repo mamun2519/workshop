@@ -1,11 +1,13 @@
 # Journey to Become a Backend Engineer
 
+=> Learning Step (Must be backend engineer know)
+
 ### Application Architecture
 
-- Monolitic
+- Monolithic
 - N-Tier
 - Module Monolith
-- MicroServvices
+- MicroServices
 - Event Driven
 - Cloud Native
 - Serverless
@@ -27,3 +29,4 @@
 - storage
 - database
 - Networking
+- Vercual Private Clode (VPC) - Most important
