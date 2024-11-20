@@ -55,3 +55,4 @@
 - Monitor
 
 Note: This a continuous process for every changes.
+=> Minium six month enough to good devops engineer.
