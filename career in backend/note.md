@@ -37,7 +37,9 @@
 
 - Development
 - Deployment
-  Working Process
+
+## Working Process
+
 - Write Code
 - Test the code locally
 - Push to Github
@@ -45,7 +47,8 @@
 - Build the code
 - deploy the code
 - monitor
-  Devops Process
+
+## Devops Process
 
 - Write code
 - Push to github
