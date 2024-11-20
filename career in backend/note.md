@@ -20,3 +20,10 @@
 - query Optimization
 - Scalable code
 - testing
+
+### Cloud Computing
+
+- Computer / Vm
+- storage
+- database
+- Networking
