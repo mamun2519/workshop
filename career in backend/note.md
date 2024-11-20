@@ -45,3 +45,13 @@
 - Build the code
 - deploy the code
 - monitor
+  Devops Process
+
+- Write code
+- Push to github
+- test automatically the integration server
+- Build the code and generate artifact on the integration server
+- deploy the artifact automatically to there server
+- Monitor
+
+Note: This a continuous process for every changes.
