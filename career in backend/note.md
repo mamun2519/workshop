@@ -32,3 +32,16 @@
 - database
 - Networking
 - Virtual Private Clode (VPC) - Most important
+
+### Devops
+
+- Development
+- Deployment
+  Working Process
+- Write Code
+- Test the code locally
+- Push to Github
+- Pull the code on the server
+- Build the code
+- deploy the code
+- monitor
