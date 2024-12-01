@@ -4,7 +4,7 @@
 
 ## Application Architecture
 
-- Monolithic
+- Monolithic.
 - N-Tier
 - Module Monolith
 - MicroServices
