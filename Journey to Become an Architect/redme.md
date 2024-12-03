@@ -16,14 +16,14 @@
 
 ### Steps:
 
-1. Programming =4 - 6 Months - **Done**
-2. Internet = 2 - 3 weeks - **Done**
+1. **Programming** =4 - 6 Months - **Done**
+2. **Internet** = 2 - 3 weeks - **Done**
    1. What is the Internet?
    2. What is HTTP?
    3. What is a browser?
    4. What is DNS?
    5. What is the server?
-3. Framework = 2 Months **Done**
+3. **Framework** = 2 Months **Done**
    1. Pick your favorite framework
    2. Try to understand the fundamentals
    3. Create 4 - 5 practice projects
