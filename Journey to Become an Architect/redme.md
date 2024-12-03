@@ -18,18 +18,28 @@
 
 1. **Programming** =4 - 6 Months - **Done**
 2. **Internet** = 2 - 3 weeks - **Done**
+
    1. What is the Internet?
    2. What is HTTP?
    3. What is a browser?
    4. What is DNS?
    5. What is the server?
+
 3. **Framework** = 2 Months **Done**
+
    1. Pick your favorite framework
    2. Try to understand the fundamentals
    3. Create 4 - 5 practice projects
+
 4. **Database = 2** Months - Ongoing
+
    1. Basics
    2. Must pick a relational database - Postgres, MongoDB
    3. Learn database schema design - **Important**
    4. Learn basic normalization, basic query, and joins
-   5. Learn a good ORM according to your framework - Prisma, Mongoose
+   5. Learn a good ORM according to your framework - Prisma, Mongoose.
+
+5. **Git** = 2-4 weeks - **Done**
+   1. Get comfortable with common git commands
+   2. Start using GitHub
+   3. Learn issue, pull-request and fork
