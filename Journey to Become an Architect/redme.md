@@ -71,6 +71,14 @@
 - small startups
 - salary range: low to moderate
 
+## BeFore That Lets Explore some job roles
+
+### 1 Core Backend Development
+
+- **Junior Backend Developer: Builds basic APIs and implements core functionalities**
+- **Backend Developer:** Creates and maintanis web applications, focusing on server-side logic.
+- **Full-Stack Developer:** Works on both front-end (user interface) and backend development.
+
 ## 2. Career Path - Lifelong Journey
 
 1. **CS Foundation I - 2 years minimum**
