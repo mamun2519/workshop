@@ -64,3 +64,9 @@
    2. Basic linux commands
    3. Run your application on the server
    4. use netifly, vercel etc
+
+### Achievements For Common Path
+
+- Eligible for a junior backend role
+- small startups
+- salary range: low to moderate
