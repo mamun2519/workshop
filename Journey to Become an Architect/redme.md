@@ -40,6 +40,14 @@
    5. Learn a good ORM according to your framework - Prisma, Mongoose.
 
 5. **Git** = 2-4 weeks - **Done**
+
    1. Get comfortable with common git commands
    2. Start using GitHub
    3. Learn issue, pull-request and fork
+
+6. **API Design** = 1 - 2 months
+   1. REST API Constraints
+   2. REST API Design, Documentation & Testing
+   3. Learn OAuth 2.0 and API Security
+   4. Scalable API Design that follows best practices
+   5. Try to integrate as many services as you can
