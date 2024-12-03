@@ -54,6 +54,13 @@
    5. Try to integrate as many services as you can
 
 7. **Integration** = 1 - 2 months - webhook **Done**
+
    1. Explore a lot of third-party services
    2. Explore their REST APIS
    3. Try to integrate as many services as you can
+
+8. **Cloud** - 1 - 2 months
+   1. How to SSH to a remote server
+   2. Basic linux commands
+   3. Run your application on the server
+   4. use netifly, vercel etc
