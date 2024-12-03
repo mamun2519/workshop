@@ -46,8 +46,14 @@
    3. Learn issue, pull-request and fork
 
 6. **API Design** = 1 - 2 months
+
    1. REST API Constraints
    2. REST API Design, Documentation & Testing
    3. Learn OAuth 2.0 and API Security
    4. Scalable API Design that follows best practices
    5. Try to integrate as many services as you can
+
+7. **Integration** = 1 - 2 months - webhook **Done**
+   1. Explore a lot of third-party services
+   2. Explore their REST APIS
+   3. Try to integrate as many services as you can
