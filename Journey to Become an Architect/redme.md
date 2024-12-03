@@ -3,7 +3,7 @@
 1. **Common Path** - Easy to achieve but not sustainable and scalable
 2. **Career Path** - Hard to achieve but very sustainable
 
-### Common path
+## 1. Common path
 
 . Common Path: 1 - 1.5 year
 **Assumptions:**
@@ -70,3 +70,5 @@
 - Eligible for a junior backend role
 - small startups
 - salary range: low to moderate
+
+## 2. Career Path - Lifelong Journey
