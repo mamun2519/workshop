@@ -76,8 +76,12 @@
 ### 1 Core Backend Development
 
 - **Junior Backend Developer: Builds basic APIs and implements core functionalities**
-- **Backend Developer:** Creates and maintanis web applications, focusing on server-side logic.
+- **Backend Developer:** Creates and maintains web applications, focusing on server-side logic.
 - **Full-Stack Developer:** Works on both front-end (user interface) and backend development.
+- **API Developer:** Designs and develops application programming interfaces (APIs) for data access.
+- **Microservices Developer:** Builds small, independent services that work together to form an applicant.
+- **Backend Test Engineer:** Writes and executes automated test to ensure backend functionality.
+- **Security Engineer (backend)**: Implements security measures to protect backend application and data.
 
 ## 2. Career Path - Lifelong Journey
 
