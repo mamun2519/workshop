@@ -14,7 +14,7 @@
 - You have a general understanding level
 - You have prior knowledge to working with computer but not in development
 
-## Steps:
+### Steps:
 
 1. Programming =4 - 6 Months - **Done**
 2. Internet = 2 - 3 weeks - **Done**
