@@ -27,3 +27,9 @@
    1. Pick your favorite framework
    2. Try to understand the fundamentals
    3. Create 4 - 5 practice projects
+4. **Database = 2** Months - Ongoing
+   1. Basics
+   2. Must pick a relational database - Postgres, MongoDB
+   3. Learn database schema design - **Important**
+   4. Learn basic normalization, basic query, and joins
+   5. Learn a good ORM according to your framework - Prisma, Mongoose
