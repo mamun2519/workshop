@@ -87,3 +87,9 @@
    2. Normalization & Denormalization - 100 case studies
    3. Indexes
    4. CAP Theorem
+   5. ACID & BASE Consistency Model
+   6. (Distributed) Transactions
+   7. Database Replication
+   8. Data Partitioning / Sharding
+   9. Consistent Hashing
+   10. Database Federation
