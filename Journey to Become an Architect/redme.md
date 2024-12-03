@@ -23,3 +23,7 @@
    3. What is a browser?
    4. What is DNS?
    5. What is the server?
+3. Framework = 2 Months **Done**
+   1. Pick your favorite framework
+   2. Try to understand the fundamentals
+   3. Create 4 - 5 practice projects
