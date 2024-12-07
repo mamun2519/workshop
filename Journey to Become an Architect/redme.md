@@ -89,7 +89,6 @@
 - Database Engineer
 - Data Architect
 
-  1.  SQL & NoSQL Database
   2.  Normalization & Denormalization - 100 case studies
   3.  Indexes
   4.  CAP Theorem
