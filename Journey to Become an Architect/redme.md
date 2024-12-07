@@ -89,7 +89,6 @@
 - Database Engineer
 - Data Architect
 
-  7.  Database Replication
   8.  Data Partitioning / Sharding
   9.  Consistent Hashing
   10. Database Federation
