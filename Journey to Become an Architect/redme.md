@@ -88,3 +88,26 @@
 - Database Administrator (DBA)
 - Database Engineer
 - Data Architect
+
+## 2. Career Path - Lifelong Journey
+
+1. **CS Foundation I - 2 years minimum**
+
+   1. Programming Languages - Multiple Language - C /C++(Rust), C#, JavaScript, Python
+   2. Data Structures - with C/Rust
+   3. Algorithms - With C/Rust
+   4. OOP - With C++/Rust
+   5. Design Patterns - With C++/Rust
+   6. Coding Challenges with C/C++/Rust
+
+2. **Database - Find MIT** **Course on how database works - 1 year**
+   1. SQL & NoSQL Database
+   2. Normalization & Denormalization - 100 case studies
+   3. Indexes
+   4. CAP Theorem
+   5. ACID & BASE Consistency Model
+   6. (Distributed) Transactions
+   7. Database Replication
+   8. Data Partitioning / Sharding
+   9. Consistent Hashing
+   10. Database Federation
