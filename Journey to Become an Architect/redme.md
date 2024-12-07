@@ -85,6 +85,8 @@
 
 ### Database Management
 
+- Database Administrator (DBA)
+
 ## 2. Career Path - Lifelong Journey
 
 1. **CS Foundation I - 2 years minimum**
