@@ -93,8 +93,6 @@
 
 1. **CS Foundation I - 2 years minimum**
 
-   6. Coding Challenges with C/C++/Rust
-
 2. **Database - Find MIT** **Course on how database works - 1 year**
    1. SQL & NoSQL Database
    2. Normalization & Denormalization - 100 case studies
