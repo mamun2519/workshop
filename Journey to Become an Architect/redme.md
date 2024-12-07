@@ -83,6 +83,8 @@
 - **Backend Test Engineer:** Writes and executes automated test to ensure backend functionality.
 - **Security Engineer (backend)**: Implements security measures to protect backend application and data.
 
+### Database Management
+
 ## 2. Career Path - Lifelong Journey
 
 1. **CS Foundation I - 2 years minimum**
