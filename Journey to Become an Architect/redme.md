@@ -87,6 +87,7 @@
 
 - Database Administrator (DBA)
 - Database Engineer
+- Data Architect
 
 ## 2. Career Path - Lifelong Journey
 
