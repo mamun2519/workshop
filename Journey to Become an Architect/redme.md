@@ -89,17 +89,13 @@
 - Database Engineer
 - Data Architect
 
-## 2. Career Path - Lifelong Journey
-
-1. **CS Foundation I - 2 years minimum**
-
-   1. SQL & NoSQL Database
-   2. Normalization & Denormalization - 100 case studies
-   3. Indexes
-   4. CAP Theorem
-   5. ACID & BASE Consistency Model
-   6. (Distributed) Transactions
-   7. Database Replication
-   8. Data Partitioning / Sharding
-   9. Consistent Hashing
-   10. Database Federation
+  1.  SQL & NoSQL Database
+  2.  Normalization & Denormalization - 100 case studies
+  3.  Indexes
+  4.  CAP Theorem
+  5.  ACID & BASE Consistency Model
+  6.  (Distributed) Transactions
+  7.  Database Replication
+  8.  Data Partitioning / Sharding
+  9.  Consistent Hashing
+  10. Database Federation
