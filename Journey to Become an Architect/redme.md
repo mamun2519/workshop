@@ -86,6 +86,7 @@
 ### Database Management
 
 - Database Administrator (DBA)
+- Database Engineer
 
 ## 2. Career Path - Lifelong Journey
 
