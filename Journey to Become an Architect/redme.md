@@ -93,7 +93,6 @@
 
 1. **CS Foundation I - 2 years minimum**
 
-   3. Algorithms - With C/Rust
    4. OOP - With C++/Rust
    5. Design Patterns - With C++/Rust
    6. Coding Challenges with C/C++/Rust
