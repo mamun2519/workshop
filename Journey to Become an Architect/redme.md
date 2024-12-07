@@ -88,5 +88,3 @@
 - Database Administrator (DBA)
 - Database Engineer
 - Data Architect
-
-  10. Database Federation
