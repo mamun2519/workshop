@@ -89,5 +89,4 @@
 - Database Engineer
 - Data Architect
 
-  9.  Consistent Hashing
   10. Database Federation
