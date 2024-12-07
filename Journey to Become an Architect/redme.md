@@ -93,7 +93,6 @@
 
 1. **CS Foundation I - 2 years minimum**
 
-   5. Design Patterns - With C++/Rust
    6. Coding Challenges with C/C++/Rust
 
 2. **Database - Find MIT** **Course on how database works - 1 year**
