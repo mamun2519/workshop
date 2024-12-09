@@ -107,6 +107,7 @@
 - **Embedded systems developer:** Develops software for devices with limited resources.
 - **Security Operations Engineer (SecOPs):** Monitors and responds to security on backend systems,
 - **Data Analyst (Backend):** Analyzes backend data to extract insight and inform decision-making.
+- **Backend Quality Assurance (Qa) Engineer:** Test backend functionalities to ensure quality.
 
 ## 2. Career Path - Lifelong Journey
 
