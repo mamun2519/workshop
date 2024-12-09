@@ -116,6 +116,7 @@
 - **Network Engineer**
 - **Security Automation Engineer**
 - **Backend Compiller Enginner**
+- **Backend User Experience (Ux) Engineer**
 
 ## 2. Career Path - Lifelong Journey
 
