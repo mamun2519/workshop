@@ -97,7 +97,7 @@
 - **Integration Specialist:** Integrates Backend systems with thrid-party applications and services.
 - **Backend Performance Engineer:** Optimized backend applications for speed and efficiency.
 
-### Specialized backend Roles
+### Specialized backend Roles:
 
 - **Backend Security Analyst:** Identifies and mitigates security vulnerabilities in backend systems.
 - **Blockchain Developer:** Build applications using blockchain technology.
