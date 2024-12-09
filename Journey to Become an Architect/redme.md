@@ -86,7 +86,7 @@
 ### Database Management
 
 - **Database Administrator (DBA)**: Manages And Optimizes Databases to ensure performance and availability.
-- Database Engineer
+- **Database Engineer:** Designs, builds, and maintains database infrastructures.
 - Data Architect
 
 ## 2. Career Path - Lifelong Journey
