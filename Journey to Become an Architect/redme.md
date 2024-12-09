@@ -113,6 +113,7 @@
 - **Real-timeDeveloper:** Develops backend systems for real-time applications.
 - **Big Data Engineer**
 - **Mobile Backend Developer**
+- **Network Engineer**
 
 ## 2. Career Path - Lifelong Journey
 
