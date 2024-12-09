@@ -97,6 +97,7 @@
 - **Software Architect:** Designs overall software architecture considering scalability, security, and maintainability.
 - **System Designer:** Creates a blueprint for backend systems, outlining components and interactions.
 - **Integration Specialist:** Integrates Backend systems with thrid-party applications and services.
+- **Backend Performance Engineer:** Optimized backend applications for speed and efficiency.
 
 1. **CS Foundation I - 2 years minimum**
 
