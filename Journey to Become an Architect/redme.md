@@ -117,6 +117,7 @@
 - **Security Automation Engineer**
 - **Backend Compiller Enginner**
 - **Backend User Experience (Ux) Engineer**
+- **Serverless Developer**
 
 ## 2. Career Path - Lifelong Journey
 
