@@ -105,6 +105,7 @@
 - **Machine learning Engineer (Backend):** creates and maintains backend infrastructure for machine learning models.
 - **Backend Automation Engineer:** Automates backend tasks and processes to improve efficiency.
 - **Embedded systems developer:** Develops software for devices with limited resources.
+- **Security Operations Engineer (SecOPs):** Monitors and responds to security on backend systems,
 
 ## 2. Career Path - Lifelong Journey
 
