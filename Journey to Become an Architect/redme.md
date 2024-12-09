@@ -85,7 +85,7 @@
 
 ### Database Management
 
-- Database Administrator (DBA)
+- **Database Administrator (DBA)**: Manages And Optimizes Databases to ensure performance and availability.
 - Database Engineer
 - Data Architect
 
