@@ -103,6 +103,7 @@
 - **Blockchain Developer:** Build applications using blockchain technology.
 - **IoT Developer:** Develops Backend systems for the internet of these (IoT) devices.
 - **Machine learning Engineer (Backend):** creates and maintains backend infrastructure for machine learning models.
+- **Backend Automation Engineer:** Automates backend tasks and processes to improve efficiency.
 
 ## 2. Career Path - Lifelong Journey
 
