@@ -90,6 +90,8 @@
 - **Data Architect:** Creates data models and strategies for efficient data storage and retrieval.
 - **ETL Developer:** Extracts, transforms, and loads data between different
 
+### Backend & System Integration:
+
 ## 2. Career Path - Lifelong Journey
 
 1. **CS Foundation I - 2 years minimum**
