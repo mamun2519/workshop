@@ -97,6 +97,10 @@
 - **Integration Specialist:** Integrates Backend systems with thrid-party applications and services.
 - **Backend Performance Engineer:** Optimized backend applications for speed and efficiency.
 
+### Specialized backend Roles
+
+- **Backend Security Analyst:** Identifies and mitigates security vulnerabilities in backend systems.
+
 ## 2. Career Path - Lifelong Journey
 
 1. **CS Foundation I - 2 years minimum**
