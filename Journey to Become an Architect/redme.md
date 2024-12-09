@@ -110,6 +110,7 @@
 - **Backend Quality Assurance (Qa) Engineer:** Test backend functionalities to ensure quality.
 - **Content Management System (CMS) Developer:** Develops custom functionality for content management systems.
 - **E-commerce backend Developer:** Builds the server-side logic for e-commerce platforms.
+- **Real-timeDeveloper:** Develops backend systems for real-time applications.
 
 ## 2. Career Path - Lifelong Journey
 
