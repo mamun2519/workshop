@@ -94,6 +94,8 @@
 
 ## 2. Career Path - Lifelong Journey
 
+- **Software Architect:** Designs overall software architecture considering scalability, security, and maintainability.
+
 1. **CS Foundation I - 2 years minimum**
 
    1. Programming Languages - Multiple Language - C /C++(Rust), C#, JavaScript, Python
