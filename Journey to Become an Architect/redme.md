@@ -109,6 +109,7 @@
 - **Data Analyst (Backend):** Analyzes backend data to extract insight and inform decision-making.
 - **Backend Quality Assurance (Qa) Engineer:** Test backend functionalities to ensure quality.
 - **Content Management System (CMS) Developer:** Develops custom functionality for content management systems.
+- **E-commerce backend Developer:** Builds the server-side logic for e-commerce platforms.
 
 ## 2. Career Path - Lifelong Journey
 
