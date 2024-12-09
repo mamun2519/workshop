@@ -88,6 +88,7 @@
 - **Database Administrator (DBA)**: Manages And Optimizes Databases to ensure performance and availability.
 - **Database Engineer:** Designs, builds, and maintains database infrastructures.
 - **Data Architect:** Creates data models and strategies for efficient data storage and retrieval.
+- **ETL Developer:** Extracts, transforms, and loads data between different
 
 ## 2. Career Path - Lifelong Journey
 
