@@ -114,6 +114,7 @@
 - **Big Data Engineer**
 - **Mobile Backend Developer**
 - **Network Engineer**
+- **Security Automation Engineer**
 
 ## 2. Career Path - Lifelong Journey
 
