@@ -100,6 +100,7 @@
 ### Specialized backend Roles
 
 - **Backend Security Analyst:** Identifies and mitigates security vulnerabilities in backend systems.
+- **Blockchain Developer:** Build applications using blockchain technology.
 
 ## 2. Career Path - Lifelong Journey
 
