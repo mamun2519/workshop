@@ -95,6 +95,7 @@
 ## 2. Career Path - Lifelong Journey
 
 - **Software Architect:** Designs overall software architecture considering scalability, security, and maintainability.
+- **System Designer:** Creates a blueprint for backend systems, outlining components and interactions.
 
 1. **CS Foundation I - 2 years minimum**
 
