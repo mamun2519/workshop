@@ -106,6 +106,7 @@
 - **Backend Automation Engineer:** Automates backend tasks and processes to improve efficiency.
 - **Embedded systems developer:** Develops software for devices with limited resources.
 - **Security Operations Engineer (SecOPs):** Monitors and responds to security on backend systems,
+- **Data Analyst (Backend):** Analyzes backend data to extract insight and inform decision-making.
 
 ## 2. Career Path - Lifelong Journey
 
