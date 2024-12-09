@@ -115,6 +115,7 @@
 - **Mobile Backend Developer**
 - **Network Engineer**
 - **Security Automation Engineer**
+- **Backend Compiller Enginner**
 
 ## 2. Career Path - Lifelong Journey
 
