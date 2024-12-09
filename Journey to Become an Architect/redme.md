@@ -102,6 +102,7 @@
 - **Backend Security Analyst:** Identifies and mitigates security vulnerabilities in backend systems.
 - **Blockchain Developer:** Build applications using blockchain technology.
 - **IoT Developer:** Develops Backend systems for the internet of these (IoT) devices.
+- **Machine learning Engineer (Backend):** creates and maintains backend infrastructure for machine learning models.
 
 ## 2. Career Path - Lifelong Journey
 
