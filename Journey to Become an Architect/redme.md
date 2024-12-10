@@ -150,4 +150,6 @@
 3.  Operating System
 4.  Multi-Threading
 
-**Note**: If you complete CS Foundation One, Database And Foundation Two then you are a software enginner.
+**Note**: If you complete CS Foundation One, Database And Foundation Two then you are a software engineer.
+
+1. **Software Architecture - 2-3 years**
