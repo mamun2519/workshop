@@ -123,9 +123,4 @@
 
 1. **CS Foundation I - 2 years minimum**
 
-   5. ACID & BASE Consistency Model
-   6. (Distributed) Transactions
-   7. Database Replication
-   8. Data Partitioning / Sharding
-   9. Consistent Hashing
-   10. Database Federation
+   5 6. (Distributed) Transactions 7. Database Replication 8. Data Partitioning / Sharding 9. Consistent Hashing 10. Database Federation
