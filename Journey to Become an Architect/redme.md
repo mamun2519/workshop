@@ -123,7 +123,6 @@
 
 1. **CS Foundation I - 2 years minimum**
 
-   4. CAP Theorem
    5. ACID & BASE Consistency Model
    6. (Distributed) Transactions
    7. Database Replication
