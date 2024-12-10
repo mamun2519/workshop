@@ -123,6 +123,8 @@
 
 1. **CS Foundation I - 2 years minimum**
 
+   1. SQL & NoSQL Database
+   2. Normalization & Denormalization - 100 case studies
    3. Indexes
    4. CAP Theorem
    5. ACID & BASE Consistency Model
