@@ -145,3 +145,4 @@
 
 3. **CS Foundation II - For reaching architect level - 2-3 year**
    1. Networking
+   2. Security - cryptography
