@@ -155,3 +155,4 @@
 1. **Software Architecture - 2-3 years**
    1. Design Patterns
    2. Design Principles
+   3. Architecture Patterns
