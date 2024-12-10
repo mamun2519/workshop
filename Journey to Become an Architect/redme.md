@@ -143,8 +143,9 @@
    9. Consistent Hashing
    10. Database Federation
 
-3. **CS Foundation II - For reaching architect level - 2-3 year**
-   1. Networking
-   2. Security - cryptography
-   3. Operating System
-   4. Multi-Threading
+## 3. **CS Foundation II - For reaching architect level - 2-3 year**
+
+1.  Networking
+2.  Security - cryptography
+3.  Operating System
+4.  Multi-Threading
