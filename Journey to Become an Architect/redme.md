@@ -122,5 +122,3 @@
 ## 2. Career Path - Lifelong Journey
 
 1. **CS Foundation I - 2 years minimum**
-
-   10. Database Federation
