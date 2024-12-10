@@ -152,14 +152,15 @@
 
 **Note**: If you complete CS Foundation One, Database And Foundation Two then you are a software engineer.
 
-1. **Software Architecture - 2-3 years**
-   1. Design Patterns
-   2. Design Principles
-   3. Architecture Patterns
-   4. APIs & Integration
-   5. Network, Security & Cloud
-   6. Different Toolings
-   7. Requirement Elicitation
-   8. Documentation
-   9. Different Diagrams
-   10. Design Decisions
+## 1. **Software Architecture - 2-3 years**
+
+1.  Design Patterns
+2.  Design Principles
+3.  Architecture Patterns
+4.  APIs & Integration
+5.  Network, Security & Cloud
+6.  Different Toolings
+7.  Requirement Elicitation
+8.  Documentation
+9.  Different Diagrams
+10. Design Decisions
