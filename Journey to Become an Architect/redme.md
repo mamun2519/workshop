@@ -118,3 +118,11 @@
 - **Backend Compiller Enginner**
 - **Backend User Experience (Ux) Engineer**
 - **Serverless Developer**
+
+## 2. Career Path - Lifelong Journey
+
+1. **CS Foundation I - 2 years minimum**
+
+   8. Data Partitioning / Sharding
+   9. Consistent Hashing
+   10. Database Federation
