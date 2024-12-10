@@ -123,5 +123,4 @@
 
 1. **CS Foundation I - 2 years minimum**
 
-   9. Consistent Hashing
    10. Database Federation
