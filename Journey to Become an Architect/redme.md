@@ -123,6 +123,5 @@
 
 1. **CS Foundation I - 2 years minimum**
 
-   8. Data Partitioning / Sharding
    9. Consistent Hashing
    10. Database Federation
