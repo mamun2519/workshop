@@ -131,6 +131,7 @@
    6. Coding Challenges with C/C++/Rust
 
 2. **Database - Find MIT** **Course on how database works - 1 year**
+
    1. SQL & NoSQL Database
    2. Normalization & Denormalization - 100 case studies
    3. Indexes
@@ -141,3 +142,5 @@
    8. Data Partitioning / Sharding
    9. Consistent Hashing
    10. Database Federation
+
+3. **CS Foundation II - For reaching architect level - 2-3 year**
