@@ -123,6 +123,7 @@
 
 1. **CS Foundation I - 2 years minimum**
 
+   1. Programming Languages - Multiple Language - C /C++(Rust), C#, JavaScript, Python
    2. Data Structures - with C/Rust
    3. Algorithms - With C/Rust
    4. OOP - With C++/Rust
