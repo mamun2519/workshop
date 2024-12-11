@@ -214,3 +214,7 @@
    4. Take Home Project
    5. Project Review
    6. Cultural Test
+
+## 5. Interview Preparation
+
+1.  Data Structures & Algorithms
