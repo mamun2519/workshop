@@ -191,3 +191,4 @@
   - Availability vs Consistency
   - Reliability Patterns
   - Load Balancer
+  - Caching & CDN
