@@ -205,3 +205,5 @@
 2. remoteok.com
 3. weworkremotely.com
 4. Structure of a Technical Job Interview
+
+   No rock solid structure, It depends on company and the culture, Technical Expertise + Soft Skills
