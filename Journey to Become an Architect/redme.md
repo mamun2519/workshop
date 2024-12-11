@@ -193,3 +193,4 @@
   - Load Balancer
   - Caching & CDN
   - Communication & Messaging
+  - Microservice Architecture
