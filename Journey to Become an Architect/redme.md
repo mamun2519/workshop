@@ -174,3 +174,4 @@
     5. Network, Security & Protocols
     6. Cloud Providers - AWS/Azure/GC
     7. Container
+    8. Configuration Management
