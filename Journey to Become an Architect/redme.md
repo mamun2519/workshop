@@ -227,3 +227,4 @@
 - communication test
 - online coding test
 - Technical Interview
+- Take Home Project
