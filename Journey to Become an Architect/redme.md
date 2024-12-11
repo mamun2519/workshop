@@ -178,3 +178,5 @@
 9. CI/CD
 10. Container Orchestration
 11. Logs and Monitoring
+
+## 3. **System Design - Ultimate Goal -**
