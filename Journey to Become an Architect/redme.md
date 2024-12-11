@@ -209,3 +209,4 @@
    No rock solid structure, It depends on company and the culture, Technical Expertise + Soft Skills
 
    1. Communication Test
+   2. Online Coding Test
