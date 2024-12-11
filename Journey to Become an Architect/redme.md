@@ -190,3 +190,4 @@
   - Latency vs Throughput
   - Availability vs Consistency
   - Reliability Patterns
+  - Load Balancer
