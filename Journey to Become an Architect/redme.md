@@ -207,3 +207,5 @@
 4. Structure of a Technical Job Interview
 
    No rock solid structure, It depends on company and the culture, Technical Expertise + Soft Skills
+
+   1. Communication Test
