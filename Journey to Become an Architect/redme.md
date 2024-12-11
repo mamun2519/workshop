@@ -192,3 +192,4 @@
   - Reliability Patterns
   - Load Balancer
   - Caching & CDN
+  - Communication & Messaging
