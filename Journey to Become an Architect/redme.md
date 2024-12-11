@@ -176,3 +176,4 @@
     7. Container
     8. Configuration Management
     9. CI/CD
+    10. Container Orchestration
