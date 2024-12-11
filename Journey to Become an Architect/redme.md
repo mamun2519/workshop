@@ -212,3 +212,5 @@
    2. Online Coding Test
    3. Technical Interview
    4. Take Home Project
+   5. Project Review
+   6. Cultural Test
