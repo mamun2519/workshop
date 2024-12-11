@@ -171,3 +171,4 @@
     2. Command Line Interface (CLI)
     3. Version Control System (git)
     4. Shell Scripting
+    5. Network, Security & Protocols
