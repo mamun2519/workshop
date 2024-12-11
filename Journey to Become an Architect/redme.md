@@ -196,3 +196,27 @@
   - Microservice Architecture
   - Cloud Native Technologies
   - Cloud Design Patterns
+
+## 4. ob Interview & Preparation
+
+**1. Sites:** Remote jobs
+
+1. indeed.com
+2. remoteok.com
+3. weworkremotely.com
+4. Structure of a Technical Job Interview
+
+   No rock solid structure, It depends on company and the culture, Technical Expertise + Soft Skills
+
+   1. Communication Test
+   2. Online Coding Test
+   3. Technical Interview
+   4. Take Home Project
+   5. Project Review
+   6. Cultural Test
+
+5. Interview Preparation
+   1. Data Structures & Algorithms
+   2. Solve at least 500 Problems on leetcode
+   3. System Design case studies
+   4. Common database problems & solutions
