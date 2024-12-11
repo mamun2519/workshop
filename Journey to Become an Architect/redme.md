@@ -226,3 +226,4 @@
 
 - communication test
 - online coding test
+- Technical Interview
