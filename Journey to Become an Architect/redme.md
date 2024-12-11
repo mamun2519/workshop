@@ -221,3 +221,5 @@
 2.  Solve at least 500 Problems on leetcode
 3.  System Design case studies
 4.  Common database problems & solutions
+
+## Structure of a technical job interview
