@@ -171,4 +171,6 @@
 2. Command Line Interface (CLI)
 3. Version Control System (git)
 4. Shell Scripting
-5. Network, Security & Protocols 6. Cloud Providers - AWS/Azure/GC 7. Container 8. Configuration Management 9. CI/CD 10. Container Orchestration 11. Logs and Monitoring
+5. Network, Security & Protocols
+6. Cloud Providers - AWS/Azure/GC
+7. Container 8. Configuration Management 9. CI/CD 10. Container Orchestration 11. Logs and Monitoring
