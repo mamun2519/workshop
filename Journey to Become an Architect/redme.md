@@ -187,3 +187,4 @@
 - **GitHub Link**: https://github.com/karanpratapsingh/system-design alternative to the book 1
 - **Concepts:**
   - Performance vs Scalability
+  - Latency vs Throughput
