@@ -194,3 +194,4 @@
   - Caching & CDN
   - Communication & Messaging
   - Microservice Architecture
+  - Cloud Native Technologies
