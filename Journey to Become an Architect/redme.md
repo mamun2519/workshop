@@ -195,3 +195,4 @@
   - Communication & Messaging
   - Microservice Architecture
   - Cloud Native Technologies
+  - Cloud Design Patterns
