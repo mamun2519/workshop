@@ -223,3 +223,5 @@
 4.  Common database problems & solutions
 
 ## Structure of a technical job interview
+
+- communication test
