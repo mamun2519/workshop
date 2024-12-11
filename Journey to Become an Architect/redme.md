@@ -180,3 +180,5 @@
 11. Logs and Monitoring
 
 ## 3. **System Design - Ultimate Goal -**
+
+- **Book Suggested**:
