@@ -225,3 +225,4 @@
 ## Structure of a technical job interview
 
 - communication test
+- online coding test
