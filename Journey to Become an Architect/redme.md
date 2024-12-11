@@ -182,3 +182,4 @@
 ## 3. **System Design - Ultimate Goal -**
 
 - **Book Suggested**:
+  1. Designing Data-Intensive Applications by Martin Kleppmann **\*** = 2 months - Validates the workshop/the career path
