@@ -186,3 +186,4 @@
   2. System Design Interview vol 1 & vol2 by Alex Xu for Interview preparation
 - **GitHub Link**: https://github.com/karanpratapsingh/system-design alternative to the book 1
 - **Concepts:**
+  - Performance vs Scalability
