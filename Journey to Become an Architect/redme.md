@@ -168,3 +168,4 @@
 ## 2. **DevOps - Search Cloud native landscape to find all tools - 6 months**
 
     1. Linux OS
+    2. Command Line Interface (CLI)
