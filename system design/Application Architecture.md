@@ -5,3 +5,4 @@
 - N-Tier
 - Modular Monolith
 - MicroServices
+- Event Driven
