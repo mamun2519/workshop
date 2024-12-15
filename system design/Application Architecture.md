@@ -20,3 +20,4 @@
 
 - Single Codebase
 - Centralized deployment
+- shared database
