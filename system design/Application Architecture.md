@@ -21,3 +21,4 @@
 - Single Codebase
 - Centralized deployment
 - shared database
+- tight coupling
