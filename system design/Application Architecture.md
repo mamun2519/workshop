@@ -15,3 +15,10 @@
 - Business logic
 - Data interface
 - Database
+
+### 1. Key Characteristics
+
+- Single Codebase
+- Centralized deployment
+- shared database
+- tight coupling
