@@ -6,3 +6,4 @@
 - Modular Monolith
 - MicroServices
 - Event Driven
+- Cloud-native
