@@ -9,14 +9,14 @@
 - Cloud-native
 - ServerLess ETC
 
-### Monolithic
+### 1. Monolithic
 
 - user Interface
 - Business logic
 - Data interface
 - Database
 
-### 1. Key Characteristics
+### Key Characteristics
 
 - Single Codebase
 - Centralized deployment
