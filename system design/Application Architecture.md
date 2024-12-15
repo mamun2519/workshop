@@ -19,3 +19,4 @@
 ### 1. Key Characteristics
 
 - Single Codebase
+- Centralized deployment
