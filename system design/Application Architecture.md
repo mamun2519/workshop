@@ -12,3 +12,4 @@
 ### Monolithic
 
 - user Interface
+- Business logic
