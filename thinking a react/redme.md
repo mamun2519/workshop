@@ -35,3 +35,4 @@ if you are looking for a framework go with
 **functionality:**
 
 - What is the component supposed to do?
+- are there any dynamic behaviors are there any APIs called
