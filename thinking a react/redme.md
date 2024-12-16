@@ -33,3 +33,5 @@ if you are looking for a framework go with
 ### A senior engineer must do
 
 **functionality:**
+
+- What is the component supposed to do?
