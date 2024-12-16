@@ -69,3 +69,5 @@ if you are looking for a framework go with
 - should we use error conditionally?
 
 **Testing**
+
+- How to design atomic parts to make it testable?
