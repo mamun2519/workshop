@@ -48,3 +48,4 @@ if you are looking for a framework go with
 **state management**
 
 - which part of the state should be local, lifted to a parent or stored in a global or context
+- is there any state that is communicating with other features?
