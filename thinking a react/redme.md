@@ -67,3 +67,5 @@ if you are looking for a framework go with
 - what are the possible edge-case scenarios?
 - Do we need to implement a retry mechanism?
 - should we use error conditionally?
+
+**Testing**
