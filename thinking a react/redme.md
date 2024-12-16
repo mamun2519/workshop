@@ -23,3 +23,9 @@ if you are looking for a framework go with
 - no build in data fetching techniques
 - no build response caching and invalidation features
 - no build-in session, cookies management features
+
+### indirectly, it is saying how to treat react
+
+- it is one of the best solutions to create complex UIs in the world
+- so, while dealing with ract forget about other noises.
+- and focuses on only single features.
