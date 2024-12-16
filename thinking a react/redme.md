@@ -64,3 +64,4 @@ if you are looking for a framework go with
 **Error Handling**
 
 - How to handle errors?
+- what are the possible edge-case scenarios?
