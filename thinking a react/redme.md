@@ -8,10 +8,4 @@
 - we will know how to delegate responsibilities to other components.
 - overall we will change the way we think and write our frontend codes.
 
-Note: React Is not a framework
-
-if you are looking for a framework go with
-
-- Next
-- Remix
-- asto
+**Note**: React Is not a framework
