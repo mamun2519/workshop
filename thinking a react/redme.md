@@ -42,3 +42,4 @@ if you are looking for a framework go with
 
 - what inputs does the component require?
 - what output events does it produce?
+- how will the data flow from parent to child?
