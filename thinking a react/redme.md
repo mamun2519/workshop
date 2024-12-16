@@ -41,3 +41,4 @@ if you are looking for a framework go with
 **Data flow**
 
 - what inputs does the component require?
+- what output events does it produce?
