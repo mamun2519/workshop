@@ -22,3 +22,4 @@ if you are looking for a framework go with
 - no build in app level state management
 - no build in data fetching techniques
 - no build response caching and invalidation features
+- no build-in session, cookies management features
