@@ -77,3 +77,4 @@ if you are looking for a framework go with
 - Finally, he will break the requirement down into smaller pieces.
 - the process remains the same for all types of developers
 - find the smaller reusable unit
+- find the composition and relations between different part
