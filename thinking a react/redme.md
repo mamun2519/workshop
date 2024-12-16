@@ -75,3 +75,4 @@ if you are looking for a framework go with
 **breakdown**
 
 - Finally, he will break the requirement down into smaller pieces.
+- the process remains the same for all types of developers
