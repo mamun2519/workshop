@@ -53,3 +53,5 @@ if you are looking for a framework go with
 **Reusability**
 
 - Will this component or child of this feature be resued elsewhere?
+- should it be generic or context-specific?
+- Do we have any already declared components that we can reuse?
