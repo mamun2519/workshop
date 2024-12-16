@@ -60,3 +60,21 @@ if you are looking for a framework go with
 **Performance**
 
 - Are there specific performance constraints (e.g: frequent update, large datasets, blocking UI that required concurrency, do we need virtualization, debounce or memorization)
+
+**Error Handling**
+
+- How to handle errors?
+- what are the possible edge-case scenarios?
+- Do we need to implement a retry mechanism?
+- should we use error conditionally?
+
+**Testing**
+
+- How to design atomic parts to make it testable?
+
+**breakdown**
+
+- Finally, he will break the requirement down into smaller pieces.
+- the process remains the same for all types of developers
+- find the smaller reusable unit
+- find the composition and relations between different part
