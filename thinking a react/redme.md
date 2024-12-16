@@ -19,3 +19,4 @@ if you are looking for a framework go with
 ### React Are not provide
 
 - No Build in routing
+- no build in app level state management
