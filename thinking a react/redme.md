@@ -65,3 +65,4 @@ if you are looking for a framework go with
 
 - How to handle errors?
 - what are the possible edge-case scenarios?
+- Do we need to implement a retry mechanism?
