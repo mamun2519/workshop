@@ -48,15 +48,3 @@ if you are looking for a framework go with
 **state management**
 
 - which part of the state should be local, lifted to a parent or stored in a global or context
-- is there any state that is communicating with other features?
-
-Reusability
-
-- Will this component or child of this feature be resued elsewhere?
-- should it be generic or context-specific?
-- Do we have any already declared components that we can reuse?
-- can we create reusable utilities, hooks, or network calls?
-
-Performance
-
-- Are there specific performance constraints (e.g: frequent update, large datasets, blocking UI that required concurrency, do we need virtualization, debounce or memorization)
