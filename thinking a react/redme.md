@@ -29,3 +29,7 @@ if you are looking for a framework go with
 - it is one of the best solutions to create complex UIs in the world
 - so, while dealing with react forget about other noises.
 - and focuses on only single features.
+
+### A senior engineer must do
+
+**functionality:**
