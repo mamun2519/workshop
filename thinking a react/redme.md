@@ -56,3 +56,7 @@ if you are looking for a framework go with
 - should it be generic or context-specific?
 - Do we have any already declared components that we can reuse?
 - can we create reusable utilities, hooks, or network calls?
+
+**Performance**
+
+- Are there specific performance constraints (e.g: frequent update, large datasets, blocking UI that required concurrency, do we need virtualization, debounce or memorization)
