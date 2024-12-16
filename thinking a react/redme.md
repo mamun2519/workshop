@@ -21,3 +21,4 @@ if you are looking for a framework go with
 - No Build in routing
 - no build in app level state management
 - no build in data fetching techniques
+- no build response caching and invalidation features
