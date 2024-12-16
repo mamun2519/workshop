@@ -37,3 +37,5 @@ if you are looking for a framework go with
 - What is the component supposed to do?
 - are there any dynamic behaviors are there any APIs called
 - can we have any reusable utilities of hooks?
+
+**Data flow**
