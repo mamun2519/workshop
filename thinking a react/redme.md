@@ -27,3 +27,4 @@ if you are looking for a framework go with
 ### indirectly, it is saying how to treat react
 
 - it is one of the best solutions to create complex UIs in the world
+- so, while dealing with ract forget about other noises.
