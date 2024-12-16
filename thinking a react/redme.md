@@ -39,3 +39,5 @@ if you are looking for a framework go with
 - can we have any reusable utilities of hooks?
 
 **Data flow**
+
+- what inputs does the component require?
