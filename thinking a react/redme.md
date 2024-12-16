@@ -73,3 +73,5 @@ if you are looking for a framework go with
 - How to design atomic parts to make it testable?
 
 **breakdown**
+
+- Finally, he will break the requirement down into smaller pieces.
