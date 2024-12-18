@@ -78,3 +78,5 @@ if you are looking for a framework go with
 - the process remains the same for all types of developers
 - find the smaller reusable unit
 - find the composition and relations between different part
+
+### React rending process
