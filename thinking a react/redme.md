@@ -80,3 +80,5 @@ if you are looking for a framework go with
 - find the composition and relations between different part
 
 ### React rending process
+
+**JSX Compilation**
