@@ -121,3 +121,4 @@ Reconciliation is a key process in React that enables efficient updates to the U
 - rending
 - diffing
 - Identify the process
+- change the dom
