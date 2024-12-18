@@ -130,3 +130,4 @@ Fiver is a complete rewrite of the react reconciliation algorithm, introduced in
 it's work
 
 - incremental rending
+- Priority Levels
