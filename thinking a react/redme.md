@@ -104,3 +104,5 @@ The Virtual DOM is a lightweight copy of the actual DOM. instead of updating the
 **Diffing**
 
 React compares the two virtual DOMs there to identify the differences. it looks for changed, added, or removed elements
+
+**Updating actual DOM**
