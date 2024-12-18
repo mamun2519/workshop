@@ -113,3 +113,12 @@ Based on the identified changes, react updates only parts of the actual DOM that
 
 - Performance
 - Declarative UI
+
+**React Reconciliation Algorithm**
+
+Reconciliation is a key process in React that enables efficient updates to the UI by comparing the current state.
+
+- rending
+- diffing
+- Identify the process
+- change the dom
