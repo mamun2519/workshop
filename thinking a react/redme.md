@@ -106,3 +106,5 @@ The Virtual DOM is a lightweight copy of the actual DOM. instead of updating the
 React compares the two virtual DOMs there to identify the differences. it looks for changed, added, or removed elements
 
 **Updating actual DOM**
+
+Based on the identified changes, react updates only parts of the actual DOM that have changed. This selective update process.
