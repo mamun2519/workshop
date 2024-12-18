@@ -126,10 +126,3 @@ Reconciliation is a key process in React that enables efficient updates to the U
 **Fiver Architecture Overview**
 
 Fiver is a complete rewrite of the react reconciliation algorithm, introduced in react 16,
-
-it's work
-
-- incremental rending
-- Priority Levels
-- work lop
-- Fiber Nodes
