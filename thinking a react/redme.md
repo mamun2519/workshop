@@ -112,3 +112,4 @@ Based on the identified changes, react updates only parts of the actual DOM that
 **Benefit Of Virtual DOM**
 
 - Performance
+- Declarative UI
