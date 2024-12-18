@@ -91,3 +91,5 @@ JSX (JavaScript XML ) is a syntax extension that allows developers to write HTML
 - React Element
 
 ### The Virtual DOM
+
+The Virtual DOM is a lightweight copy of the actual DOM. instead of updating the real dom directly react maintains a virtual representation of it in memory. This approach allows react to batch update s and performs efficient comparisons between different states of the UI.
