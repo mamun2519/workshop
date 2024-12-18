@@ -89,3 +89,5 @@ JSX (JavaScript XML ) is a syntax extension that allows developers to write HTML
 
 - Transformation (babble convert js)
 - React Element
+
+### The Virtual DOM
