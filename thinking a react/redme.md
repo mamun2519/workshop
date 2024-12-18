@@ -97,3 +97,4 @@ The Virtual DOM is a lightweight copy of the actual DOM. instead of updating the
 **Reconciliation Process**
 
 - Diffing
+- updating actual DOM
