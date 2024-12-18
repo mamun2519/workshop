@@ -82,3 +82,7 @@ if you are looking for a framework go with
 ### React rending process
 
 **JSX Compilation**
+
+JSX (JavaScript XML ) is a syntax extension that allows developers to write HTML-like code within JavaScript.
+
+**Compilation Process**
