@@ -73,6 +73,5 @@
 **When to use vertical scaling**
 
 - vertical scaling is suitable when the workload is well-suited to a single powerful machine.
-- its viable option for applications with predicated resource needs.
 
 **Horizontal Scaling**
