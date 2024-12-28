@@ -32,5 +32,3 @@
 **Performance vs scaling**
 
 **performance**
-
-- Low latency
