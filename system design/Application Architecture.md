@@ -42,4 +42,3 @@
 **Scalability**
 
 - subset of performance
-- High throughput
