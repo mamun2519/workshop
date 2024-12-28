@@ -22,3 +22,5 @@
 - Centralized deployment
 - shared database
 - tight coupling
+
+## Application Scalability
