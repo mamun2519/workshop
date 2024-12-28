@@ -37,4 +37,3 @@
 - high throughput
   - concurrency
   - capacity
-- capacity
