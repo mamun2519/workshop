@@ -44,3 +44,8 @@
 - subset of performance
 - High throughput
 - scale both up and down
+
+### There are two types of scaling
+
+- Vertical
+- Horizontal
