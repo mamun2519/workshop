@@ -40,5 +40,3 @@
 - capacity
 
 **Scalability**
-
-- subset of performance
