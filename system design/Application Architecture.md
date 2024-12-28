@@ -68,6 +68,5 @@
 - Limited Scalability
 - Downtime for upgrades
 - Higher cost for high-performance needs
-- single point of failure
 
 **Horizontal Scaling**
