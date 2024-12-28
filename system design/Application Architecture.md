@@ -58,6 +58,4 @@
 
 **How do we achieve vertical scaling?**
 
-- add more CPU
-
 **Horizontal Scaling**
