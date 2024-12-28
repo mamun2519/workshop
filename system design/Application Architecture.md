@@ -28,3 +28,19 @@
 **Scaling is system design**
 
 ⇒ scaling in system design refers to the ability of a system to handle increased load or demand while maintaining or improving its performance.
+
+**Performance vs scaling**
+
+**performance**
+
+- Low latency
+- high throughput
+  - concurrency
+  - capacity
+- capacity
+
+**Scalability**
+
+- subset of performance
+- High throughput
+- scale both up and down
