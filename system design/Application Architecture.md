@@ -35,4 +35,3 @@
 
 - Low latency
 - high throughput
-  - concurrency
