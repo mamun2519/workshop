@@ -38,5 +38,3 @@
   - concurrency
   - capacity
 - capacity
-
-**Scalability**
