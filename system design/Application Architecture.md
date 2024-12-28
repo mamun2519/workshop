@@ -51,5 +51,3 @@
 - Horizontal
 
 **Vertical Scaling**
-
-⇒ vertical scaling also known as scaling up or scaling vertically refer to the process of increasing the capacity of a single server or recourse in order to handle a large load or improve performance.
