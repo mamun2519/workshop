@@ -70,6 +70,4 @@
 - Higher cost for high-performance needs
 - single point of failure
 
-**When to use vertical scaling**
-
 **Horizontal Scaling**
