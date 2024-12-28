@@ -48,4 +48,3 @@
 ### There are two types of scaling
 
 - Vertical
-- Horizontal
