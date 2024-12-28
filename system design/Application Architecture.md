@@ -34,4 +34,3 @@
 **performance**
 
 - Low latency
-- high throughput
