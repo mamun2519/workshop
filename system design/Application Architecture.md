@@ -65,6 +65,4 @@
 
 **Cons /problem of vertical scaling**
 
-- Limited Scalability
-
 **Horizontal Scaling**
