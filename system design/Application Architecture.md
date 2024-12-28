@@ -70,4 +70,10 @@
 - Higher cost for high-performance needs
 - single point of failure
 
+**When to use vertical scaling**
+
+- vertical scaling is suitable when the workload is well-suited to a single powerful machine.
+- its viable option for applications with predicated resource needs.
+- in secaneraios where simplicity and upgrades of are crucial.
+
 **Horizontal Scaling**
