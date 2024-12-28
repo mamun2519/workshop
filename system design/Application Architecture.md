@@ -65,4 +65,7 @@
 
 **Cons /problem of vertical scaling**
 
+- Limited Scalability
+- Downtime for upgrades
+
 **Horizontal Scaling**
