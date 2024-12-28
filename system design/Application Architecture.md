@@ -49,5 +49,3 @@
 
 - Vertical
 - Horizontal
-
-**Vertical Scaling**
