@@ -24,5 +24,3 @@
 - tight coupling
 
 ## Application Scalability
-
-**Scaling is system design**
