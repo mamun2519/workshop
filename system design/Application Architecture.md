@@ -60,7 +60,5 @@
 
 - add more CPU
 - add more memory
-- increase storage capacity
-- upgrade to a more powerful server
 
 **Horizontal Scaling**
