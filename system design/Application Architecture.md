@@ -56,4 +56,11 @@
 
 **example ⇒ server starts 2 core 4GB then increases 16 core 64 GB**
 
+**How do we achieve vertical scaling?**
+
+- add more CPU
+- add more memory
+- increase storage capacity
+- upgrade to a more powerful server
+
 **Horizontal Scaling**
