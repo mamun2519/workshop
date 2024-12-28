@@ -46,5 +46,3 @@
 - scale both up and down
 
 ### There are two types of scaling
-
-- Vertical
