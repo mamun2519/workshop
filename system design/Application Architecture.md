@@ -96,3 +96,4 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 **Issue with This Architecture**
 
 - Two Different Ip Addresses
+- Two Different Databases
