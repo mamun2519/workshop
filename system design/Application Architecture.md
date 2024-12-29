@@ -77,4 +77,3 @@
 - in secaneraios where simplicity and upgrades of are crucial.
 
 **Horizontal Scaling**
-Horizontal Scaling also known as scaling out, involves adding more machines or nodes to a system to distribute the load and increase its overall capacity.
