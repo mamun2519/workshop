@@ -90,3 +90,5 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 
 - Load balancing
 - clustering
+- containerization
+- auto-scaling
