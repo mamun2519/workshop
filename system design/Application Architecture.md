@@ -85,5 +85,3 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 - Cost effective
 - redundancy and fault tolerance
 - Easy to add capacity
-
-**How To achieve Horizontal Scaling**
