@@ -80,3 +80,6 @@
 Horizontal Scaling also known as scaling out, involves adding more machines or nodes to a system to distribute the load and increase its overall capacity.
 
 **Cons /problem of Horizontal scaling**
+
+- Improved Scalability
+- Cost effective
