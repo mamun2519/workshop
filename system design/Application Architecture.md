@@ -98,4 +98,3 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 - Two Different Ip Addresses
 - Two Different Databases
 - Two Different Storages
-- How client will decided which route to go?
