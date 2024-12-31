@@ -103,3 +103,4 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 **Cons /problem of Horizontal Scaling**
 
 - complexity
+- inter-Node commination
