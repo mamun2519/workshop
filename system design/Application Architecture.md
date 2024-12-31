@@ -99,3 +99,10 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 - Two Different Databases
 - Two Different Storages
 - How client will decided which route to go?
+
+**Cons /problem of Horizontal Scaling**
+
+- complexity
+- inter-Node commination
+- Data Consistency
+- Not Suitable for all workloads
