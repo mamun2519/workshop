@@ -101,5 +101,3 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 - How client will decided which route to go?
 
 **Cons /problem of Horizontal Scaling**
-
-- complexity
