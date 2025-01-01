@@ -150,4 +150,3 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 - Single Ip Address
 - Traffic Distribution
 - Load Distribution
-- Sclabity
