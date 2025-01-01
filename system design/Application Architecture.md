@@ -105,5 +105,3 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 - complexity
 - inter-Node commination
 - Data Consistency
-
-**Scalability Principles**
