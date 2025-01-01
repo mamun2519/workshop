@@ -119,4 +119,3 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 
 - Distribution of components
 - Data distribution
-- load Distribution
