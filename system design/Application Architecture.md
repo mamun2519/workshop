@@ -130,4 +130,3 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 **Key Aspects of Independence**
 
 - Loose Coupling
-- Isolation of concerns
