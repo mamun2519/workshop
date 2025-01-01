@@ -131,4 +131,3 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 
 - Loose Coupling
 - Isolation of concerns
-- Services Oriented Arhiture
