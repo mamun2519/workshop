@@ -146,5 +146,3 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 ⇒ a load balancer is a device or software application that distributes incoming network traffic across multiple services or resources.
 
 **Key Functions of Load Balancers**
-
-- Single Ip Address
