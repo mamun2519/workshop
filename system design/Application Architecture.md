@@ -140,3 +140,16 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 - Parallel Development
 
 **Scalability Architecture Starts with Module**
+
+### Load Balancer
+
+⇒ a load balancer is a device or software application that distributes incoming network traffic across multiple services or resources.
+
+**Key Functions of Load Balancers**
+
+- Single Ip Address
+- Traffic Distribution
+- Load Distribution
+- Sclabity
+- Health Monitoring
+- Session Persistence
