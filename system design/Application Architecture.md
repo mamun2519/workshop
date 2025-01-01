@@ -151,4 +151,3 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 - Traffic Distribution
 - Load Distribution
 - Sclabity
-- Health Monitoring
