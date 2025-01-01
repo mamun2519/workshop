@@ -112,5 +112,3 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 - Independence
 
 **Decentralization**
-
-⇒ One component is responsible for all the work. if one component is responsible for all the work it is called monolithic. Monolithic is an anti-pattern for scalability.
