@@ -126,5 +126,3 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 - Improved Scalability
 - Fault Tolerance
 - Flexibility
-
-**Key Aspects of Independence**
