@@ -110,5 +110,3 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 
 - Decentralization
 - Independence
-
-**Decentralization**
