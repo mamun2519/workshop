@@ -152,5 +152,5 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 - Load Distribution
 - scalability
 - Health Monitoring
-- Session Persistence
+
 -
