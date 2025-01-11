@@ -136,3 +136,4 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 **Advantages of independence**
 
 - Easier Maintenance
+- Scalability
