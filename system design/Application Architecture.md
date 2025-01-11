@@ -148,3 +148,5 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 **Key Functions of Load Balancers**
 
 - Single Ip Address
+- Traffic Distribution
+- Load Distribution
