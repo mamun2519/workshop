@@ -137,3 +137,4 @@ Horizontal Scaling also known as scaling out, involves adding more machines or n
 
 - Easier Maintenance
 - Scalability
+- Parallel Development
