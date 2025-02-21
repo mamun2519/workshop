@@ -246,3 +246,7 @@ export const ReduxUserDetails = () => {
 ```
 
 # Atomic State
+
+## What is an Atomic State?
+
+An atomic state is a small, independent piece of state that can be composed together to build complex state management. These atoms are globally accessible, meaning any component can import, read, and write data without causing unnecessary re-renders in unrelated parts of the application.
