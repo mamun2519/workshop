@@ -137,3 +137,7 @@ export const ZustandUserDetails = () => {
 ```
 
 # Redux Toolkit
+
+Redux Toolkit (RTK) is the official, recommended way to write Redux logic. It simplifies Redux development by reducing boilerplate code, improving performance, and providing built-in tools for handling complex state management.
+
+## Redux Store
