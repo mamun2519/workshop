@@ -260,6 +260,6 @@ An atomic state is a small, independent piece of state that can be composed toge
 
 **There are two popular libraries to manage Atomic State**
 
-Jotai
-Recoil
-Their goal is the same: to maintain an atomic state, but the underlying implementations differ. Let’s see how they work in code with a simple user state.
+1. Jotai
+2. Recoil
+   Their goal is the same: to maintain an atomic state, but the underlying implementations differ. Let’s see how they work in code with a simple user state.
