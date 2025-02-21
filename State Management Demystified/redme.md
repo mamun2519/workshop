@@ -282,3 +282,31 @@ export const userAtom = (atom < User) | (null > null);
 // Persited
 const darkModeAtom = atomWithStorage("darkMode", false);
 ```
+
+## Jotai Client Code
+
+```js
+import { useAtom, useAtomValue, useSetAtom } from "jotai";
+import React from "react";
+import { userAtom } from "./userAtoms";
+
+export const JotaiUserDetails = () => {
+  // normal approach look like react useState
+  // const [user, setuser] = useAtom(userAtom);
+
+  // with selector
+  const user = useAtomValue(userAtom);
+  const setuser = useSetAtom(userAtom);
+
+  const updateuserHandler = () => {
+    setuser({ id: 1, name: "rasel", email: "exmaple@example.com" });
+  };
+  return (
+    <div>
+      user: {JSON.stringify(user, null, 2)}
+      <br />
+      <button onClick={updateuserHandler}> Update User</button>
+    </div>
+  );
+};
+```
