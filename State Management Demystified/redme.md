@@ -387,3 +387,79 @@ Proxy state is a reactive state management approach where the state is wrapped i
 1. Mobx
 2. Valtio
    In this example, we will see how we can handle the proxy state using Valtio
+
+# Valtio
+
+Valtio is a proxy-based state management library for React that allows you to manage state in a mutable yet reactive way. It uses JavaScript Proxy to automatically track state changes and trigger re-renders only where needed.
+
+```js
+// useStore.tsx
+import { User } from "../../type";
+
+import { proxy } from "valtio";
+
+type UserState = {
+  user: User | null,
+};
+
+export const userState =
+  proxy <
+  UserState >
+  {
+    user: null,
+  };
+
+export const updateAuthUser = (payload: User, type: "login" | "logout") => {
+  switch (type) {
+    case "login": {
+      userState.user = payload;
+      break;
+    }
+    case "logout": {
+      userState.user = null;
+      break;
+    }
+    default:
+      break;
+  }
+};
+
+export const updateUserName = (userName: string) => {
+  if (!userState.user) return;
+  userState.user.name = userName;
+};
+```
+
+## client Code
+
+```js
+import React from "react";
+import { useSnapshot } from "valtio";
+import { updateAuthUser, updateUserName, userState } from "./useStore";
+
+export const ValtiouserDetails = () => {
+  const { user } = useSnapshot(userState);
+  return (
+    <div>
+      <pre>{JSON.stringify(user, null, 2)}</pre>
+
+      <button
+        onClick={() => {
+          updateAuthUser(
+            {
+              id: 1,
+              name: "John Doe",
+              email: "john@doe.com",
+            },
+            "login"
+          );
+        }}
+      >
+        Log In
+      </button>
+
+      <button onClick={() => updateAuthUser({}, "logout")}>Log Out</button>
+    </div>
+  );
+};
+```
