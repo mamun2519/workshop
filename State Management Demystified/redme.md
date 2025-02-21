@@ -257,7 +257,8 @@ An atomic state is a small, independent piece of state that can be composed toge
 2. Independent, Composable State – Small, isolated state units (atoms) that can be combined dynamically.
 3. Globally Accessible State – Any component can read/write atoms without prop drilling or context.
 4. Shared UI State – Great for managing UI-related states like modals, filters, themes, or form steps.
-   There are two popular libraries to manage Atomic State
+
+**There are two popular libraries to manage Atomic State**
 
 Jotai
 Recoil
