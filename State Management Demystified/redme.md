@@ -310,3 +310,7 @@ export const JotaiUserDetails = () => {
   );
 };
 ```
+
+# Recoil
+
+Recoil is a state management library for React that is designed to handle shared state across components efficiently. It introduces the concept of atoms (units of state) and selectors (derived state), allowing fine-grained reactivity with minimal re-renders.
