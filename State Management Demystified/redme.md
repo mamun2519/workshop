@@ -244,3 +244,5 @@ export const ReduxUserDetails = () => {
   <ReduxUserDetails />
 </ReduxWrapper>
 ```
+
+# Atomic State
