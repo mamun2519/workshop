@@ -314,3 +314,18 @@ export const JotaiUserDetails = () => {
 # Recoil
 
 Recoil is a state management library for React that is designed to handle shared state across components efficiently. It introduces the concept of atoms (units of state) and selectors (derived state), allowing fine-grained reactivity with minimal re-renders.
+
+## Recoil Store
+
+```js
+import { atom } from "recoil";
+import type { User } from "./types";
+
+export const userAtom =
+  (atom < User) |
+  (null >
+    {
+      key: "userState",
+      default: null, // Initially, no user is logged in
+    });
+```
