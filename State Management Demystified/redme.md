@@ -14,3 +14,7 @@ This concept ensures that changes in state always follow a clear, structured pat
 - This state is passed down to child components.
 
 **Actions Trigger State Updates**
+
+- A user interacts with the UI (e.g., clicking a button).
+- The event dispatches an action (like Redux dispatch).
+- The state updates and the changes flow back down to the UI.
