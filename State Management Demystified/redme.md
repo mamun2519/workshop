@@ -263,3 +263,7 @@ An atomic state is a small, independent piece of state that can be composed toge
 1. Jotai
 2. Recoil
    Their goal is the same: to maintain an atomic state, but the underlying implementations differ. Let’s see how they work in code with a simple user state.
+
+# Jotai
+
+Jotai is a primitive and flexible atomic state management library for React, designed to be simple yet powerful. Inspired by Recoil, it provides fine-grained reactivity while keeping things minimal and easy to use.
