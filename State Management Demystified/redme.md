@@ -267,3 +267,18 @@ An atomic state is a small, independent piece of state that can be composed toge
 # Jotai
 
 Jotai is a primitive and flexible atomic state management library for React, designed to be simple yet powerful. Inspired by Recoil, it provides fine-grained reactivity while keeping things minimal and easy to use.
+
+## Jotai Store
+
+```js
+// userAtom.ts
+import { atomWithStorage } from "jotai/utils";
+import { atom } from "jotai";
+import { User } from "../../type";
+
+// Notmal Store
+export const userAtom = (atom < User) | (null > null);
+
+// Persited
+const darkModeAtom = atomWithStorage("darkMode", false);
+```
