@@ -250,3 +250,15 @@ export const ReduxUserDetails = () => {
 ## What is an Atomic State?
 
 An atomic state is a small, independent piece of state that can be composed together to build complex state management. These atoms are globally accessible, meaning any component can import, read, and write data without causing unnecessary re-renders in unrelated parts of the application.
+
+## When to Use Atomic State (Recoil, Jotai)?
+
+1. Granular State Updates – Only update the necessary pieces of state without rerendering the whole component tree.
+2. Independent, Composable State – Small, isolated state units (atoms) that can be combined dynamically.
+3. Globally Accessible State – Any component can read/write atoms without prop drilling or context.
+4. Shared UI State – Great for managing UI-related states like modals, filters, themes, or form steps.
+   There are two popular libraries to manage Atomic State
+
+Jotai
+Recoil
+Their goal is the same: to maintain an atomic state, but the underlying implementations differ. Let’s see how they work in code with a simple user state.
