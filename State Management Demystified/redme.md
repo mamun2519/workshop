@@ -237,3 +237,10 @@ export const ReduxUserDetails = () => {
   );
 };
 ```
+
+```js
+// App.tsx
+<ReduxWrapper>
+  <ReduxUserDetails />
+</ReduxWrapper>
+```
