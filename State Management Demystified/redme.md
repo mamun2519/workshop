@@ -9,3 +9,6 @@ This concept ensures that changes in state always follow a clear, structured pat
 ### How Does Unidirectional State Work?
 
 **Data Flows Down**
+
+- The state is stored in a single source of truth (like Redux store, Zustand store).
+- This state is passed down to child components.
