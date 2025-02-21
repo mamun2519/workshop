@@ -24,3 +24,5 @@ There are many popular unidirectional global state management solutions availabl
 # Zustand
 
 Zustand is a fast, scalable, and minimalistic state management library for React. Unlike Redux, it doesn’t require reducers, actions, or a lot of boilerplate. It allows you to create a global state using a simple hook-based API.
+
+**Zustand Store**
