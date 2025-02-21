@@ -371,3 +371,18 @@ const UserProfile = () => {
 
 export default UserProfile;
 ```
+
+# Proxy-State
+
+Proxy state is a reactive state management approach where the state is wrapped inside a JavaScript Proxy. Instead of directly modifying the state, a proxy intercepts the changes and ensures updates are efficiently handled without unnecessary re-renders.
+
+**When to Use Proxy State?**
+
+1. Large, deeply nested objects – E.g., game states, dashboards, or forms.
+2. Fine-grained reactivity – When you want only affected components to update, avoiding unnecessary re-renders.
+3. Mutable-friendly workflows – When you prefer direct state mutation over immutable patterns.
+   **There are two popular libraries to manage Atomic State**
+
+Mobx
+Valtio
+In this example, we will see how we can handle the proxy state using Valtio
