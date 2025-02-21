@@ -381,8 +381,9 @@ Proxy state is a reactive state management approach where the state is wrapped i
 1. Large, deeply nested objects – E.g., game states, dashboards, or forms.
 2. Fine-grained reactivity – When you want only affected components to update, avoiding unnecessary re-renders.
 3. Mutable-friendly workflows – When you prefer direct state mutation over immutable patterns.
-   **There are two popular libraries to manage Atomic State**
 
-Mobx
-Valtio
-In this example, we will see how we can handle the proxy state using Valtio
+**There are two popular libraries to manage Atomic State**
+
+1. Mobx
+2. Valtio
+   In this example, we will see how we can handle the proxy state using Valtio
