@@ -329,3 +329,45 @@ export const userAtom =
       default: null, // Initially, no user is logged in
     });
 ```
+
+## Client Code
+
+```js
+import { useRecoilState } from "recoil";
+import { userAtom } from "./userAtom";
+import type { User } from "./types"; // Import the User type
+
+const UserProfile = () => {
+  const [user, setUser] = useRecoilState(userAtom);
+
+  const login = () => {
+    const newUser: User = {
+      id: 1,
+      name: "John Doe",
+      email: "john@example.com",
+      phone: "+1234567890",
+      role: "admin",
+    };
+    setUser(newUser);
+  };
+
+  const logout = () => {
+    setUser(null);
+  };
+
+  return (
+    <div>
+      <h2>User: {user ? user.name : "Guest"}</h2>
+      <p>Email: {user?.email || "Not logged in"}</p>
+      <p>Role: {user?.role || "N/A"}</p>
+      {user ? (
+        <button onClick={logout}>Logout</button>
+      ) : (
+        <button onClick={login}>Login</button>
+      )}
+    </div>
+  );
+};
+
+export default UserProfile;
+```
