@@ -20,3 +20,5 @@ This concept ensures that changes in state always follow a clear, structured pat
 - The state updates and the changes flow back down to the UI.
 
 There are many popular unidirectional global state management solutions available, such as Redux and Zustand. Let’s see how they work in code with a simple user state.
+
+# Zustand
