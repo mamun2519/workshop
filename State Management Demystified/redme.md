@@ -12,3 +12,5 @@ This concept ensures that changes in state always follow a clear, structured pat
 
 - The state is stored in a single source of truth (like Redux store, Zustand store).
 - This state is passed down to child components.
+
+**Actions Trigger State Updates**
