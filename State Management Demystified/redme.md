@@ -463,5 +463,3 @@ export const ValtiouserDetails = () => {
   );
 };
 ```
-
-## When Should You Use Valtio?
