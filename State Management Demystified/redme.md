@@ -469,3 +469,5 @@ export const ValtiouserDetails = () => {
 - **For Mutability-Friendly Workflows**
 
 Unlike Redux or Zustand (which require immutability), Valtio allows direct state mutation while still being reactive.
+
+- **For Real-Time, Game, or Collaborative Apps**
