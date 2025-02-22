@@ -465,5 +465,3 @@ export const ValtiouserDetails = () => {
 ```
 
 ## When Should You Use Valtio?
-
-- **For Mutability-Friendly Workflows**
