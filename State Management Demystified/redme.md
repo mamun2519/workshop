@@ -467,5 +467,3 @@ export const ValtiouserDetails = () => {
 ## When Should You Use Valtio?
 
 - **For Mutability-Friendly Workflows**
-
-Unlike Redux or Zustand (which require immutability), Valtio allows direct state mutation while still being reactive.
