@@ -30,3 +30,10 @@ In React, this means:
 - UI components should only handle rendering
 - Logic components should manage state and data fetching
 - Reusable utilities should handle specific tasks (e.g., formatting, API calls)
+
+### Why is SRP Important?
+
+Easier Maintenance – When a component has a single responsibility, it’s easier to update.
+Better Readability – Developers can quickly understand the purpose of each component.
+Improved Reusability – Smaller, focused components can be reused in multiple places.
+Simplified Testing – Testing a small, focused component is easier than testing a large, complex one.
