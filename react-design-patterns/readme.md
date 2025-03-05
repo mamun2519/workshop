@@ -60,3 +60,10 @@ Instead of the component rendering something directly, it provides a function (a
 2. **Separation of Concerns:** By separating logic from presentation, render props help keep components more focused on a single responsibility.
 3. **Flexibility:** Render props provide a high level of flexibility. You can change what gets rendered based on the function you pass to the component, and you can control how components behave by passing different functions.
 4. **Composability:** You can compose different behaviors by using multiple render prop components. Each component can provide its own logic, and the consumer can decide how to combine them.
+
+### Use Cases for Render Props
+
+Sharing state or logic: When you need to share logic or state between multiple components (e.g., managing form state or handling mouse position).
+Conditional rendering: When you want to control what gets rendered based on certain conditions or logic.
+Code reuse: When you want to reuse a block of code that renders UI elements in different ways, but with shared logic.
+Dynamic content rendering: When the content or structure needs to be dynamic and controlled from outside the component.
