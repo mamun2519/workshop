@@ -39,3 +39,11 @@ In React, this means:
 4. **Simplified Testing** – Testing a small, focused component is easier than testing a large, complex one.
 
 # Two Most Common Patterns: HOC & Render Props
+
+A Higher-Order Component (HOC) is a pattern in React that allows you to re-use component logic. It's a function that takes a component and returns a new component with additional props or logic.
+
+HOCs are commonly used for:
+
+- Reusing component logic
+  Adding extra features like authentication, logging, etc.
+  Modifying props or behavior of the wrapped component without changing the original component.
