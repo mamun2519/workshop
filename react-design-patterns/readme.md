@@ -54,7 +54,7 @@ A render prop is a pattern in React where a component uses a function prop to kn
 
 Instead of the component rendering something directly, it provides a function (a "render prop") to the consumer of the component. This function then returns what the component should render.
 
-Why is Render Props Important?
+### Why is Render Props Important?
 
 Reusable Logic: Render props allow for code reuse across multiple components. You can share logic between components without using inheritance or mixins.
 Separation of Concerns: By separating logic from presentation, render props help keep components more focused on a single responsibility.
