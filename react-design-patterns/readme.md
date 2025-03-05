@@ -12,3 +12,11 @@ The Container-Presentation Pattern is a design pattern in React that separates U
 - **Better Testing** – You can test UI separately from business logic.
 
 ## Separation of Concerns (SoC):
+
+Separation of Concerns (SoC) is a software design principle that suggests dividing a program into distinct sections, where each section addresses a separate concern.
+
+In React, this means breaking an application into independent, reusable parts, where:
+
+UI Components handle rendering.
+Logic Components handle data-fetching, state management, or API interactions.
+Routing, State, and Business Logic are kept modular to improve maintainability.
