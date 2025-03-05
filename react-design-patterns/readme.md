@@ -36,4 +36,4 @@ In React, this means:
 1. **Easier Maintenance** – When a component has a single responsibility, it’s easier to update.
 2. **Better Readability** – Developers can quickly understand the purpose of each component.
 3. **Improved Reusability** – Smaller, focused components can be reused in multiple places.
-   Simplified Testing – Testing a small, focused component is easier than testing a large, complex one.
+4. **Simplified Testing** – Testing a small, focused component is easier than testing a large, complex one.
