@@ -57,6 +57,6 @@ Instead of the component rendering something directly, it provides a function (a
 ### Why is Render Props Important?
 
 1. **Reusable Logic**: Render props allow for code reuse across multiple components. You can share logic between components without using inheritance or mixins.
-   Separation of Concerns: By separating logic from presentation, render props help keep components more focused on a single responsibility.
+2. **Separation of Concerns:** By separating logic from presentation, render props help keep components more focused on a single responsibility.
    Flexibility: Render props provide a high level of flexibility. You can change what gets rendered based on the function you pass to the component, and you can control how components behave by passing different functions.
    Composability: You can compose different behaviors by using multiple render prop components. Each component can provide its own logic, and the consumer can decide how to combine them.
