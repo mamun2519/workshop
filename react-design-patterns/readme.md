@@ -37,3 +37,5 @@ In React, this means:
 2. **Better Readability** – Developers can quickly understand the purpose of each component.
 3. **Improved Reusability** – Smaller, focused components can be reused in multiple places.
 4. **Simplified Testing** – Testing a small, focused component is easier than testing a large, complex one.
+
+# Two Most Common Patterns: HOC & Render Props
