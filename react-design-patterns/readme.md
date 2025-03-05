@@ -63,7 +63,7 @@ Instead of the component rendering something directly, it provides a function (a
 
 ### Use Cases for Render Props
 
-Sharing state or logic: When you need to share logic or state between multiple components (e.g., managing form state or handling mouse position).
-Conditional rendering: When you want to control what gets rendered based on certain conditions or logic.
-Code reuse: When you want to reuse a block of code that renders UI elements in different ways, but with shared logic.
-Dynamic content rendering: When the content or structure needs to be dynamic and controlled from outside the component.
+1. **Sharing state or logic:** When you need to share logic or state between multiple components (e.g., managing form state or handling mouse position).
+   Conditional rendering: When you want to control what gets rendered based on certain conditions or logic.
+   Code reuse: When you want to reuse a block of code that renders UI elements in different ways, but with shared logic.
+   Dynamic content rendering: When the content or structure needs to be dynamic and controlled from outside the component.
