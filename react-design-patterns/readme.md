@@ -17,6 +17,6 @@ Separation of Concerns (SoC) is a software design principle that suggests dividi
 
 In React, this means breaking an application into independent, reusable parts, where:
 
-UI Components handle rendering.
-Logic Components handle data-fetching, state management, or API interactions.
-Routing, State, and Business Logic are kept modular to improve maintainability.
+- UI Components handle rendering.
+- Logic Components handle data-fetching, state management, or API interactions.
+  Routing, State, and Business Logic are kept modular to improve maintainability.
