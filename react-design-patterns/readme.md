@@ -29,4 +29,4 @@ In React, this means:
 
 - UI components should only handle rendering
 - Logic components should manage state and data fetching
-  Reusable utilities should handle specific tasks (e.g., formatting, API calls)
+- Reusable utilities should handle specific tasks (e.g., formatting, API calls)
