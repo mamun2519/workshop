@@ -8,5 +8,5 @@ The Container-Presentation Pattern is a design pattern in React that separates U
 
 - **Separation of Concerns** – It keeps UI components clean and focused only on rendering while keeping data-fetching and business logic separate.
 - **Reusability** – The same presentation component can be reused with different data sources.
-  Easier Maintenance – Changes in logic don’t affect the UI and vice versa.
+- **Easier Maintenance** – Changes in logic don’t affect the UI and vice versa.
   Better Testing – You can test UI separately from business logic.
