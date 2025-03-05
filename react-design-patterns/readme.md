@@ -45,5 +45,5 @@ A Higher-Order Component (HOC) is a pattern in React that allows you to re-use c
 HOCs are commonly used for:
 
 - Reusing component logic
-  Adding extra features like authentication, logging, etc.
-  Modifying props or behavior of the wrapped component without changing the original component.
+- Adding extra features like authentication, logging, etc.
+- Modifying props or behavior of the wrapped component without changing the original component.
