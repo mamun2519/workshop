@@ -33,7 +33,7 @@ In React, this means:
 
 ### Why is SRP Important?
 
-Easier Maintenance – When a component has a single responsibility, it’s easier to update.
+1.**Easier Maintenance** – When a component has a single responsibility, it’s easier to update.
 Better Readability – Developers can quickly understand the purpose of each component.
 Improved Reusability – Smaller, focused components can be reused in multiple places.
 Simplified Testing – Testing a small, focused component is easier than testing a large, complex one.
