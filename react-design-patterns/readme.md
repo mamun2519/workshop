@@ -20,3 +20,13 @@ In React, this means breaking an application into independent, reusable parts, w
 - UI Components handle rendering.
 - Logic Components handle data-fetching, state management, or API interactions.
 - Routing, State, and Business Logic are kept modular to improve maintainability.
+
+## Single Responsibility Pattern (SRP):
+
+The Single Responsibility Principle (SRP) states that a component should have one reason to change—it should do one thing well.
+
+In React, this means:
+
+UI components should only handle rendering
+Logic components should manage state and data fetching
+Reusable utilities should handle specific tasks (e.g., formatting, API calls)
