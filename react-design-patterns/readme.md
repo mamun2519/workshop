@@ -98,7 +98,7 @@ The Context API in React provides a way to pass data deeply through the componen
 ### Strengths of Context API
 
 - **Removes Prop Drilling** – No need to pass props through multiple levels.
-- Lightweight Alternative to State Management Libraries – No need for Redux or Zustand for simple state sharing.
+- **Lightweight Alternative to State Management Libraries** – No need for Redux or Zustand for simple state sharing.
 - Built-in and Native to React – No extra dependencies.
 - Flexible – Works with any data type (booleans, strings, objects, functions).
 - Weaknesses of Context API
