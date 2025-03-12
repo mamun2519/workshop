@@ -89,7 +89,7 @@ The Context API in React provides a way to pass data deeply through the componen
 ### When to Use Context API?
 
 - **Theme Management** – Light/Dark mode switching.
-  Authentication State – User login status across the app.
+- **Authentication State** – User login status across the app.
   Language/Localization – Multi-language support.
   Global UI State – Sidebar visibility, modals, notifications.
   Application Configurations – Feature flags, environment settings.
