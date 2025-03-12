@@ -85,3 +85,12 @@ The Function as Children Prop (also known as Render Props with children) pattern
 ## Context API
 
 The Context API in React provides a way to pass data deeply through the component tree without needing to manually pass props at every level (a.k.a. "prop drilling"). It is mainly used for global state management in scenarios where multiple components need access to shared data.
+
+### When to Use Context API?
+
+Theme Management – Light/Dark mode switching.
+Authentication State – User login status across the app.
+Language/Localization – Multi-language support.
+Global UI State – Sidebar visibility, modals, notifications.
+Application Configurations – Feature flags, environment settings.
+Form State Sharing – Multi-step forms where data is shared across steps.
