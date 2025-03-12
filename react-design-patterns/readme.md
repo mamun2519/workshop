@@ -75,7 +75,7 @@ The Function as Children Prop (also known as Render Props with children) pattern
 ### **Why is it Important?**
 
 - **Enhances Reusability** – Instead of duplicating logic, different components can use the same logic but customize rendering.
-  Promotes Separation of Concerns (SoC) – The logic and UI rendering are decoupled, making maintenance easier.
+- **Promotes Separation of Concerns (SoC)** – The logic and UI rendering are decoupled, making maintenance easier.
   Flexible Component Customization – The parent component can fully control how the child is rendered.
   Note:
 
