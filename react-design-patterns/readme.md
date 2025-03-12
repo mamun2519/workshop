@@ -93,4 +93,4 @@ The Context API in React provides a way to pass data deeply through the componen
 - **Language/Localization** – Multi-language support.
 - **Global UI State** – Sidebar visibility, modals, notifications.
 - **Application Configurations** – Feature flags, environment settings.
-- Form State Sharing – Multi-step forms where data is shared across steps.
+- **Form State Sharing** – Multi-step forms where data is shared across steps.
