@@ -114,9 +114,9 @@ The Compound Component Pattern in React allows multiple related components to wo
 
 This pattern is useful when you want to design flexible, reusable UI components that allow users to compose them in different ways.
 
-When to Use Compound Components? (Use Cases)
+### When to Use Compound Components? (Use Cases)
 
-Building UI libraries – Tabs, Accordions, Dropdowns, Modals, etc.
-Designing flexible, reusable components – Form controls, Wizards.
-When multiple components share a common state – Controlled components.
-Improving code readability & maintainability – Reducing prop drilling.
+- Building UI libraries – Tabs, Accordions, Dropdowns, Modals, etc.
+- Designing flexible, reusable components – Form controls, Wizards.
+- When multiple components share a common state – Controlled components.
+- Improving code readability & maintainability – Reducing prop drilling.
