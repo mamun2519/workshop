@@ -104,6 +104,6 @@ The Context API in React provides a way to pass data deeply through the componen
 
 ### Weaknesses of Context API
 
-- Re-renders All Consumers When Context Changes – Even if only part of the context changes, all consuming components render.
+- **Re-renders All Consumers When Context Changes** – Even if only part of the context changes, all consuming components render.
 - Not Ideal for High-Frequency Updates – If data updates frequently (e.g., real-time stock prices), Context API may cause - performance issues.
 - Complex Debugging – If multiple contexts exist, debugging can become challenging.
