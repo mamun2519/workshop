@@ -107,3 +107,16 @@ The Context API in React provides a way to pass data deeply through the componen
 - **Re-renders All Consumers When Context Changes** – Even if only part of the context changes, all consuming components render.
 - **Not Ideal for High-Frequency Updates** – If data updates frequently (e.g., real-time stock prices), Context API may cause - performance issues.
 - **Complex Debugging**– If multiple contexts exist, debugging can become challenging.
+
+## Compound Components
+
+The Compound Component Pattern in React allows multiple related components to work together as a single unit. Instead of passing multiple props to control child components, compound components communicate implicitly through context or React’s children prop.
+
+This pattern is useful when you want to design flexible, reusable UI components that allow users to compose them in different ways.
+
+When to Use Compound Components? (Use Cases)
+
+Building UI libraries – Tabs, Accordions, Dropdowns, Modals, etc.
+Designing flexible, reusable components – Form controls, Wizards.
+When multiple components share a common state – Controlled components.
+Improving code readability & maintainability – Reducing prop drilling.
