@@ -83,3 +83,5 @@ The Function as Children Prop (also known as Render Props with children) pattern
 - Any time you need complex logic or flow inside JSX use Children Prop Pattern.
 
 ## Context API
+
+The Context API in React provides a way to pass data deeply through the component tree without needing to manually pass props at every level (a.k.a. "prop drilling"). It is mainly used for global state management in scenarios where multiple components need access to shared data.
