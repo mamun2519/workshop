@@ -79,5 +79,5 @@ The Function as Children Prop (also known as Render Props with children) pattern
 - **Flexible Component Customization** – The parent component can fully control how the child is rendered.
   **Note:**
 
-Any time we need hooks we can use Function as Children Prop Pattern. It won’t introduce any junk inside the JSX but provides enhanced functionalities.
-Any time you need complex logic or flow inside JSX use Children Prop Pattern.
+- Any time we need hooks we can use Function as Children Prop Pattern. It won’t introduce any junk inside the JSX but provides enhanced functionalities.
+- Any time you need complex logic or flow inside JSX use Children Prop Pattern.
