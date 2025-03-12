@@ -69,3 +69,5 @@ Instead of the component rendering something directly, it provides a function (a
 4. **Dynamic content rendering:** When the content or structure needs to be dynamic and controlled from outside the component.
 
 ## Function as Children Prop Pattern
+
+The Function as Children Prop (also known as Render Props with children) pattern in React allows passing a function as the children prop to a component. This function receives data or state from the component and returns JSX, making the component flexible and reusable.
