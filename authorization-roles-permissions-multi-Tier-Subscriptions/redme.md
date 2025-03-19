@@ -19,7 +19,8 @@
 - To be authorized users must be authenticated
 - Authorization is about “What you can do”
 - 401 Error Status Code: 403
-  Real-World Examples and Analogies
+
+### Real-World Examples and Analogies
 
 Hotel Check in:
 
