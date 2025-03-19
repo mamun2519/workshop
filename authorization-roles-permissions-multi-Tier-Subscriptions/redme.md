@@ -6,14 +6,14 @@
 
 **Key Differences:**
 
-Authentication
+**Authentication**
 
 - Authentication focuses on verifying identity
 - Authentication occurs at the beginning
 - Authentication is about “who you are”
 - Error Status Code:
 
-Authorization
+**Authorization**
 
 - Authorization focuses on granting or denying access
 - To be authorized users must be authenticated
