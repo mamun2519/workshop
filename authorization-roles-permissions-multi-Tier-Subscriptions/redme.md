@@ -10,8 +10,8 @@ Authentication
 
 - Authentication focuses on verifying identity
 - Authentication occurs at the beginning
-  Authentication is about “who you are”
-  Error Status Code:
+- Authentication is about “who you are”
+- Error Status Code:
 
 Authorization
 
