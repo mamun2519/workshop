@@ -2,16 +2,24 @@
 
 **Authentication:** Authentication is the process of verifying the identity of a user or entity. It confirms that the person or system is who they claim to be. Ex. Entering a username and password to log into a website.
 
-Authorization: Authorization is the process of determining whether an authenticated user has the right to access specific resources or perform certain actions. Ex. Once logged in, being able to access specific sections of a website based on user roles, like admin or regular user.
+**Authorization:** Authorization is the process of determining whether an authenticated user has the right to access specific resources or perform certain actions. Ex. Once logged in, being able to access specific sections of a website based on user roles, like admin or regular user.
 
-Key Differences:
+**Key Differences:**
 
-Authentication Authorization
-Authentication focuses on verifying identity Authorization focuses on granting or denying access
-Authentication occurs at the beginning To be authorized users must be authenticated
-Authentication is about “who you are” Authorization is about “What you can do”
-Error Status Code: 401 Error Status Code: 403
-Real-World Examples and Analogies
+Authentication
+
+- Authentication focuses on verifying identity
+- Authentication occurs at the beginning
+  Authentication is about “who you are”
+  Error Status Code:
+
+Authorization
+
+- Authorization focuses on granting or denying access
+- To be authorized users must be authenticated
+- Authorization is about “What you can do”
+- 401 Error Status Code: 403
+  Real-World Examples and Analogies
 
 Hotel Check in:
 
