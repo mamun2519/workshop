@@ -142,13 +142,15 @@ With the **Control Props Pattern**, we:
 - **Better Reusability** – Works in different use cases without modifying the core logic.
 - **Avoids Unnecessary State** – Lets the consumer manage state only when necessary.
 - **Keeps Components Declarative** – External control makes it easy to manage from the parent.
-  When to Use Control Props?
-  You need both default internal state and external control.
-  Users might want to override the behavior with their own logic.
-  You need two-way data binding between the component and parent.
-  You want a component to be partially controlled (e.g., controlled by a prop but still has default behavior).
-  Provider Pattern
-  The Provider Pattern in React is a design pattern that allows state, functions, or dependencies to be shared across a component tree without passing them manually via props at every level.
+
+### When to Use Control Props?
+
+You need both default internal state and external control.
+Users might want to override the behavior with their own logic.
+You need two-way data binding between the component and parent.
+You want a component to be partially controlled (e.g., controlled by a prop but still has default behavior).
+Provider Pattern
+The Provider Pattern in React is a design pattern that allows state, functions, or dependencies to be shared across a component tree without passing them manually via props at every level.
 
 How It Works
 The Provider Pattern in React is implemented using Context API. It enables a centralized store of data or dependencies, which is then accessed by child components using useContext.
