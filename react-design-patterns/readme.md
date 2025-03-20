@@ -129,7 +129,7 @@ The Control Props Pattern is a flexible way to allow both internal and external 
 
 In React, components often manage their own state internally. However, sometimes we need to give users the ability to control that state from the outside while keeping an optional internal fallback.
 
-With the Control Props Pattern, we:
+With the **Control Props Pattern**, we:
 
 Allow state to be controlled internally (default behavior).
 Let consumers control it externally when needed.
