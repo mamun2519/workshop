@@ -139,8 +139,8 @@ With the **Control Props Pattern**, we:
 ### Why is it Important?
 
 - **More Flexibility** – Components can be used in controlled and uncontrolled modes.
-- Better Reusability – Works in different use cases without modifying the core logic.
-- Avoids Unnecessary State – Lets the consumer manage state only when necessary.
+- **Better Reusability** – Works in different use cases without modifying the core logic.
+- **Avoids Unnecessary State** – Lets the consumer manage state only when necessary.
 - Keeps Components Declarative – External control makes it easy to manage from the parent.
   When to Use Control Props?
   You need both default internal state and external control.
