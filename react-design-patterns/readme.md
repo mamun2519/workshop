@@ -125,7 +125,7 @@ This pattern is useful when you want to design flexible, reusable UI components 
 
 The Control Props Pattern is a flexible way to allow both internal and external control over a component’s state. This is useful when you want to provide default behavior while also allowing consumers of your component to override it when needed.
 
-## What is Control Props Pattern?
+### What is Control Props Pattern?
 
 In React, components often manage their own state internally. However, sometimes we need to give users the ability to control that state from the outside while keeping an optional internal fallback.
 
