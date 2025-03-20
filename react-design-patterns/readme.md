@@ -163,4 +163,4 @@ The Provider Pattern in React is implemented using Context API. It enables a cen
 - Removes prop drilling
 - Encapsulates shared state or dependencies
 - Encourages separation of concerns
-  Easier to test and manage dependencies
+- Easier to test and manage dependencies
