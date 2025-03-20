@@ -158,7 +158,7 @@ The Provider Pattern in React is a design pattern that allows state, functions, 
 
 The Provider Pattern in React is implemented using Context API. It enables a centralized store of data or dependencies, which is then accessed by child components using useContext.
 
-Benefits of the Provider Pattern
+### Benefits of the Provider Pattern
 
 Removes prop drilling
 Encapsulates shared state or dependencies
