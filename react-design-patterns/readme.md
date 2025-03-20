@@ -121,7 +121,8 @@ This pattern is useful when you want to design flexible, reusable UI components 
 - **When multiple components share a common state** – Controlled components.
 - **Improving code readability & maintainability** – Reducing prop drilling.
 
-Control Props Pattern
+# Control Props Pattern
+
 The Control Props Pattern is a flexible way to allow both internal and external control over a component’s state. This is useful when you want to provide default behavior while also allowing consumers of your component to override it when needed.
 
 What is Control Props Pattern?
