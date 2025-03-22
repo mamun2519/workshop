@@ -186,7 +186,7 @@ Before custom hooks, we had three primary ways to reuse logic:
 
 The Factory Hook Pattern is a way to create custom hooks dynamically based on different conditions, configurations, or dependencies. Instead of having a single static hook, a factory function generates a hook instance based on specific parameters, improving reusability, flexibility, and maintainability.
 
-Why Do We Need Factory Hooks?
+**Why Do We Need Factory Hooks?**
 
 Customizable Behavior → Create variations of hooks with different configurations.
 Encapsulation → Abstract complex logic into reusable units.
