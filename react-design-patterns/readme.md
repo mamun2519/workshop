@@ -188,7 +188,7 @@ The Factory Hook Pattern is a way to create custom hooks dynamically based on di
 
 **Why Do We Need Factory Hooks?**
 
-Customizable Behavior → Create variations of hooks with different configurations.
-Encapsulation → Abstract complex logic into reusable units.
-Avoid Duplication → Instead of writing multiple similar hooks, generate them dynamically.
-Dynamic Dependencies → Inject dependencies or configurations when creating hooks.
+- Customizable Behavior → Create variations of hooks with different configurations.
+  Encapsulation → Abstract complex logic into reusable units.
+  Avoid Duplication → Instead of writing multiple similar hooks, generate them dynamically.
+  Dynamic Dependencies → Inject dependencies or configurations when creating hooks.
