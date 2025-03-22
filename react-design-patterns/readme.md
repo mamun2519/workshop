@@ -172,7 +172,7 @@ A Custom Hook in React is a reusable function that encapsulates stateful logic u
 Before custom hooks, we had three primary ways to reuse logic:
 
 1. Higher-Order Components (HOC)
-   Render Props
+2. Render Props
    Context API (for state sharing)
    However, both HOCs and Render Props led to issues like:
 
