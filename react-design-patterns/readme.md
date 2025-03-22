@@ -172,7 +172,7 @@ The Provider Pattern in React is implemented using Context API. It enables a cen
 Before custom hooks, we had three primary ways to reuse logic:
 
 1. **Higher-Order Components (HOC)**
-2. Render Props
+2. **Render Props**
 3. Context API (for state sharing)
    However, both HOCs and Render Props led to issues like:
 
