@@ -165,7 +165,8 @@ The Provider Pattern in React is implemented using Context API. It enables a cen
 - Encourages separation of concerns
 - Easier to test and manage dependencies
 
-Custom Hook
+## Custom Hook
+
 A Custom Hook in React is a reusable function that encapsulates stateful logic using React Hooks like useState, useEffect, useRef, etc. It follows the naming convention useSomething, making it easy to share logic across multiple components without code duplication.
 
 Before custom hooks, we had three primary ways to reuse logic:
