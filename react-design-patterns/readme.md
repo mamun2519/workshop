@@ -179,7 +179,7 @@ Before custom hooks, we had three primary ways to reuse logic:
 Nested Components (Wrapper Hell) – Too many wrapper components made the JSX harder to read.
 
 - **Props Drilling** – Passing down props multiple levels.
-- Complex Debugging – Hard to track data flow inside deeply nested components.
+- **Complex Debugging** – Hard to track data flow inside deeply nested components.
 - Custom Hooks solve these problems by providing a simple, composable, and readable way to extract logic!
 
 Factory Hook
