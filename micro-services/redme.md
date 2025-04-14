@@ -14,7 +14,3 @@
 
   - Manage user profile information
   - A new user profile will be created upon registration
-
-- catalog
-  - create products
-  - create inventory
