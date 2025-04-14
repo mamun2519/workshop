@@ -46,5 +46,3 @@
 - Express
 - cors
 - dotenv
-- morgan
-- prisma
