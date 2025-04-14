@@ -48,5 +48,3 @@
 - dotenv
 - morgan
 - prisma
-- typeScript
-- ts-node
