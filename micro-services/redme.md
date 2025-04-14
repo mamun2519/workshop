@@ -40,3 +40,13 @@
   - send email
 
 ## Building MicrosServices With Type Script
+
+### Dependancy
+
+- Express
+- cors
+- dotenv
+- morgan
+- prisma
+- typeScript
+- ts-node
