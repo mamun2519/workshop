@@ -31,6 +31,3 @@
   - Release stocks automatically after 10-15 minutes
   - Show all cart
 - order
-
-  - new order
-  - invoke email services
