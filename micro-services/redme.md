@@ -1,4 +1,4 @@
-# MicroServices database design [ Class 1]
+# Build a Micro Services Project
 
 ## Services
 
