@@ -34,7 +34,7 @@
   - new order
   - invoke email services
   - invoke cart services to clear the cart
-  - invoke invernotry services to update stock and create history
+  - invoke inventory services to update stock and create history
   - invoke user services to create a record
 - email
   - send email
