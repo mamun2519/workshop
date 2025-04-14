@@ -9,7 +9,7 @@
   - autentication
   - account verifacation
   - password recovery
-  - Roles Permisison
+  - Roles Permission
 - User
 
   - Manage user profile information
