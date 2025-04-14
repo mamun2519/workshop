@@ -7,7 +7,7 @@
 - Auth
   - Create a new user
   - autentication
-  - account verifacation
+  - account verification
   - password recovery
   - Roles Permission
 - User
