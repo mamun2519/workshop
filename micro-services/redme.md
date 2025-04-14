@@ -23,6 +23,3 @@
   - update and delete product
 - inverntory
   - maintain inventory of product
-  - manage stock histories
-- cart
-  - create cart
