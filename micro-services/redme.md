@@ -23,3 +23,8 @@
   - update and delete product
 - inverntory
   - maintain inventory of product
+  - manage stock histories
+- cart
+  - create cart
+  - update inventory
+  - Hold stock for 10-14 mins
