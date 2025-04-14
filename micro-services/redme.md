@@ -34,3 +34,7 @@
 
   - new order
   - invoke email services
+  - invoke cart services to clear the cart
+  - invoke invernotry services to update stock and create history
+
+-
