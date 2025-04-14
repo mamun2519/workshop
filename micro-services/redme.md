@@ -11,6 +11,3 @@
   - password recovery
   - Roles Permisison
 - User
-
-  - Manage user profile information
-  - A new user profile will be created upon registration
