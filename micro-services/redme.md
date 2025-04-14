@@ -18,5 +18,3 @@
 - catalog
   - create products
   - create inventory
-  - fatch all products
-  - fetch product details with available stocks
