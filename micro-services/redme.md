@@ -6,5 +6,3 @@
 
 - Auth
   - Create a new user
-  - autentication
-  - account verifacation
