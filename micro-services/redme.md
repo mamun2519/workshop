@@ -31,10 +31,9 @@
   - Release stocks automatically after 10-15 minutes
   - Show all cart
 - order
-
   - new order
   - invoke email services
   - invoke cart services to clear the cart
   - invoke invernotry services to update stock and create history
-
+  - invoke user services to create a record
 -
