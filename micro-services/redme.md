@@ -18,10 +18,10 @@
 - catalog
   - create products
   - create inventory
-  - fatch all products
+  - fatah all products
   - fetch product details with available stocks
   - update and delete product
-- inverntory
+- inventory
   - maintain inventory of product
   - manage stock histories
 - cart
