@@ -20,6 +20,3 @@
   - create inventory
   - fatch all products
   - fetch product details with available stocks
-  - update and delete product
-- inverntory
-  - maintain inventory of product
