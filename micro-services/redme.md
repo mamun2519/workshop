@@ -6,7 +6,7 @@
 
 - Auth
   - Create a new user
-  - autentication
+  - authentication
   - account verification
   - password recovery
   - Roles Permission
