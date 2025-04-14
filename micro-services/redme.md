@@ -44,5 +44,3 @@
 ### Dependancy
 
 - Express
-- cors
-- dotenv
