@@ -41,7 +41,7 @@
 
 ## Building MicrosServices With Type Script
 
-### Dependancy
+### Dependency
 
 - Express
 - cors
