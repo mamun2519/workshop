@@ -8,6 +8,3 @@
   - Create a new user
   - autentication
   - account verifacation
-  - password recovery
-  - Roles Permisison
-- User
