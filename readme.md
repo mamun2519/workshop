@@ -7,4 +7,4 @@
 3. [Authorization Roles Permissions Multi-Tier Subscriptions](https://github.com/mamun2519/workshop/tree/main/authorization-roles-permissions-multi-Tier-Subscriptions)
 4. [Career in backend](https://github.com/mamun2519/workshop/tree/main/career%20in%20backend)
 5. [Pro Micro Services](https://github.com/mamun2519/workshop/tree/main/micro-services)
-6. [React Design Patterns]
+6. [React Design Patterns](https://github.com/mamun2519/workshop/tree/main/react-design-patterns)
