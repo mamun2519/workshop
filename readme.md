@@ -9,3 +9,4 @@
 5. [Pro Micro Services](https://github.com/mamun2519/workshop/tree/main/micro-services)
 6. [React Design Patterns](https://github.com/mamun2519/workshop/tree/main/react-design-patterns)
 7. [System Design](https://github.com/mamun2519/workshop/tree/main/system%20design)
+8. [Thinking a React]
