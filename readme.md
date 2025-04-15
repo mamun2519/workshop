@@ -2,4 +2,4 @@
 
 ## Core concept
 
-1. Journey to become an architect
+1. [Journey to become an architect]()
