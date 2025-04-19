@@ -40,7 +40,7 @@ List of Common Structures:
 
 - Array
 - Linked List
-  Stack
+- Stack
   Queue
   Hash Table / Hash Map
   Set
