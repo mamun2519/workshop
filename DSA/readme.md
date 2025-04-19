@@ -16,7 +16,7 @@ Imagine you’re organizing your house. You have different storage items like:
 - A fridge for food
   Each of these helps you store and access things efficiently.
 
-Algorithms: The procedures, the operations we need to work on the data.
+**Algorithms:** The procedures, the operations we need to work on the data.
 
 In programming, an algorithm is a set of instructions to manipulate data and solve a problem.
 
