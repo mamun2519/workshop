@@ -1,3 +1,3 @@
-# Data Structers and Aloritum with Javascript
+# Data Structures and Algorithm with Javascript
 
 ## Expand The DSA Full Form
