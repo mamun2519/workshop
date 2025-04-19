@@ -41,7 +41,7 @@ List of Common Structures:
 - Array
 - Linked List
 - Stack
-  Queue
+- Queue
   Hash Table / Hash Map
   Set
   Tree
