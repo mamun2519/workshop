@@ -32,7 +32,8 @@ Now, imagine you’re baking a cake. You follow a step-by-step recipe:
 
 Data Structures without Algorithm is a sealed treasure that we can not open. Algorithm without having a data structure is just a set of instructions, we don’t need to worry about them. You almost never need one without the other.
 
-Common Data Structures
+### Common Data Structures
+
 We are surrounded by data structures
 
 List of Common Structures:
