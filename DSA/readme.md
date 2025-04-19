@@ -48,3 +48,20 @@ List of Common Structures:
 - Heap
 - Trie
 - Graph
+
+## Common Operations
+
+Operation Meaning
+Insert Add new data into the structure or memory
+Delete Remove data from a specific location
+Update Modify existing data
+Search/Find Locate specific data based on a value or key
+Read/Access Retrieve data from a location without modifying it
+Traverse Visit all elements in a structured way (e.g., one by one, top to bottom)
+Sort Rearrange data based on a rule (ascending, alphabetical, etc.)
+Transform Convert data into another format/structure
+Merge Combine two or more data collections into one
+Split Divide a data collection into parts
+Map Apply a function to every element (common in functional programming)
+Filter Select elements based on a condition
+Aggregate Compute a summary (sum, average, count, etc.)
