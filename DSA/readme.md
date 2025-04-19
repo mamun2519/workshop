@@ -38,13 +38,13 @@ We are surrounded by data structures
 
 List of Common Structures:
 
-Array
-Linked List
-Stack
-Queue
-Hash Table / Hash Map
-Set
-Tree
-Heap
-Trie
-Graph
+- Array
+- Linked List
+  Stack
+  Queue
+  Hash Table / Hash Map
+  Set
+  Tree
+  Heap
+  Trie
+  Graph
