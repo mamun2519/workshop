@@ -61,7 +61,7 @@ Operation Meaning
 - Traverse => Visit all elements in a structured way (e.g., one by one, top to bottom)
 - Sort => Rearrange data based on a rule (ascending, alphabetical, etc.)
 - Transform => Convert data into another format/structure
-  Merge Combine two or more data collections into one
+- Merge => Combine two or more data collections into one
   Split Divide a data collection into parts
   Map Apply a function to every element (common in functional programming)
   Filter Select elements based on a condition
