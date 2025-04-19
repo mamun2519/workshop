@@ -24,6 +24,6 @@ Now, imagine you’re baking a cake. You follow a step-by-step recipe:
 
 1. Get ingredients
 2. Mix them
-   Bake for 30 minutes
+3. Bake for 30 minutes
    Serve
    That recipe is an algorithm — a sequence of steps to solve a problem or accomplish a task. It requires data to process and these data is stored inside one or many data structures.
