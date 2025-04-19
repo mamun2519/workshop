@@ -43,7 +43,7 @@ List of Common Structures:
 - Stack
 - Queue
 - Hash Table / Hash Map
-  Set
+- Set
   Tree
   Heap
   Trie
