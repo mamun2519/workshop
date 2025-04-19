@@ -22,8 +22,8 @@ In programming, an algorithm is a set of instructions to manipulate data and sol
 
 Now, imagine you’re baking a cake. You follow a step-by-step recipe:
 
-Get ingredients
-Mix them
-Bake for 30 minutes
-Serve
-That recipe is an algorithm — a sequence of steps to solve a problem or accomplish a task. It requires data to process and these data is stored inside one or many data structures.
+1. Get ingredients
+   Mix them
+   Bake for 30 minutes
+   Serve
+   That recipe is an algorithm — a sequence of steps to solve a problem or accomplish a task. It requires data to process and these data is stored inside one or many data structures.
