@@ -6,7 +6,7 @@ DSA stands for Data structures & Algorithms. These are two different terms.
 
 **Data Structures:**The storage where you can store data.
 
-In **computer science**, a data structure is like those storage items — it’s a way of organizing and storing data so you can use it effectively.
+In **computer science**, a **data structure** is like those storage items — it’s a way of organizing and storing data so you can use it effectively.
 
 Imagine you’re organizing your house. You have different storage items like:
 
