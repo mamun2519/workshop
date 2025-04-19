@@ -44,7 +44,7 @@ List of Common Structures:
 - Queue
 - Hash Table / Hash Map
 - Set
-  Tree
+- Tree
   Heap
   Trie
   Graph
