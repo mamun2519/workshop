@@ -11,7 +11,7 @@ In **computer science**, a **data structure** is like those storage items — it
 Imagine you’re organizing your house. You have different storage items like:
 
 - A drawer for socks
-  A bookshelf for books
+- A bookshelf for books
   A shoe rack for shoes
   A fridge for food
   Each of these helps you store and access things efficiently.
