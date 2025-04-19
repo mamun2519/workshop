@@ -45,6 +45,6 @@ List of Common Structures:
 - Hash Table / Hash Map
 - Set
 - Tree
-  Heap
+- Heap
   Trie
   Graph
