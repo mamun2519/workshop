@@ -57,7 +57,7 @@ Operation Meaning
 - Delete => Remove data from a specific location
 - Update => Modify existing data
 - Search/Find => Locate specific data based on a value or key
-- Read/Access Retrieve data from a location without modifying it
+- Read/Access => Retrieve data from a location without modifying it
   Traverse Visit all elements in a structured way (e.g., one by one, top to bottom)
   Sort Rearrange data based on a rule (ascending, alphabetical, etc.)
   Transform Convert data into another format/structure
