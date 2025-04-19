@@ -27,3 +27,23 @@ Now, imagine you’re baking a cake. You follow a step-by-step recipe:
 3. Bake for 30 minutes
 4. Serve
    That recipe is an algorithm — a sequence of steps to solve a problem or accomplish a task. It requires data to process and these data is stored inside one or many data structures.
+
+## Why Algorithm always comes with Data Structures
+
+Data Structures without Algorithm is a sealed treasure that we can not open. Algorithm without having a data structure is just a set of instructions, we don’t need to worry about them. You almost never need one without the other.
+
+Common Data Structures
+We are surrounded by data structures
+
+List of Common Structures:
+
+Array
+Linked List
+Stack
+Queue
+Hash Table / Hash Map
+Set
+Tree
+Heap
+Trie
+Graph
