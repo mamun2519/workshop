@@ -62,7 +62,7 @@ Operation Meaning
 - Sort => Rearrange data based on a rule (ascending, alphabetical, etc.)
 - Transform => Convert data into another format/structure
 - Merge => Combine two or more data collections into one
-  Split Divide a data collection into parts
+- Split => Divide a data collection into parts
   Map Apply a function to every element (common in functional programming)
   Filter Select elements based on a condition
   Aggregate Compute a summary (sum, average, count, etc.)
