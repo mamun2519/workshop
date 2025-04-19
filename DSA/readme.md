@@ -63,6 +63,6 @@ Operation Meaning
 - Transform => Convert data into another format/structure
 - Merge => Combine two or more data collections into one
 - Split => Divide a data collection into parts
-  Map Apply a function to every element (common in functional programming)
+- Map => Apply a function to every element (common in functional programming)
   Filter Select elements based on a condition
   Aggregate Compute a summary (sum, average, count, etc.)
