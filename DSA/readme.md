@@ -47,4 +47,4 @@ List of Common Structures:
 - Tree
 - Heap
 - Trie
-  Graph
+- Graph
