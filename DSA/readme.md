@@ -54,7 +54,7 @@ List of Common Structures:
 Operation Meaning
 
 - Insert => Add new data into the structure or memory
-  Delete Remove data from a specific location
+- Delete => Remove data from a specific location
   Update Modify existing data
   Search/Find Locate specific data based on a value or key
   Read/Access Retrieve data from a location without modifying it
