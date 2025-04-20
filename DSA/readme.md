@@ -78,3 +78,5 @@ We need to perform different operations to achieve different things. Some data s
 But how can we know which data structures will perform better on which data structures? How do we measure? What is the metric?
 
 The following two programs are doing the same thing, sorting an array. Between these two program which one will perform better?
+
+## Asymptotic Analysis
