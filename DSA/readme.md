@@ -90,3 +90,9 @@ Asymptotic analysis is a method used to describe the limiting behavior of a func
 - Ignoring Constants: Constant factors and specific input sizes are often ignored because they become less relevant as the input grows large.
 - Scalability: Asymptotic analysis helps determine how well an algorithm will perform with larger datasets or inputs, providing insights into its scalability.
 - Performance Comparison: It allows for the comparison of different algorithms' efficiencies by looking at their asymptotic growth rates.
+
+## Notations:
+
+Big (O) - Upper Bound: In the worst case scenario the algorithm will take at most this much time. Used the most in algorithm analysis. Ex. You were looking for a book and found it at the last.
+Big (Ω) - Lower Bound: In the best case scenario the algorithm will take this much time. Ex. You found the desired book at the first attempt.
+Big (Θ) - Tight Bound: Describe the exact growth rate. The algorithm takes this much time in all cases. Used when the upper and lower bounds are the same.
