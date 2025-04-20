@@ -95,4 +95,4 @@ Asymptotic analysis is a method used to describe the limiting behavior of a func
 
 - Big (O) - Upper Bound: In the worst case scenario the algorithm will take at most this much time. Used the most in algorithm analysis. Ex. You were looking for a book and found it at the last.
 - Big (Ω) - Lower Bound: In the best case scenario the algorithm will take this much time. Ex. You found the desired book at the first attempt.
-  Big (Θ) - Tight Bound: Describe the exact growth rate. The algorithm takes this much time in all cases. Used when the upper and lower bounds are the same.
+- Big (Θ) - Tight Bound: Describe the exact growth rate. The algorithm takes this much time in all cases. Used when the upper and lower bounds are the same.
