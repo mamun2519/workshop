@@ -80,3 +80,5 @@ But how can we know which data structures will perform better on which data stru
 The following two programs are doing the same thing, sorting an array. Between these two program which one will perform better?
 
 ## Asymptotic Analysis
+
+Asymptotic analysis is a method used to describe the limiting behavior of a function or algorithm as its input size increases towards infinity. It's particularly useful in computer science for understanding the efficiency and scalability of algorithms by focusing on how their performance changes with large inputs, ignoring constant factors and low-level details
