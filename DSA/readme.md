@@ -109,6 +109,6 @@ Because Big-O is about growth trends, not exact counts.
 
 For large n:
 
-n³ grows much faster than n², which grows faster than n log n, etc.
-So n³ + n² + log n is O(n³)
-This is like adding pennies to millions - the pennies become negligible.
+- n³ grows much faster than n², which grows faster than n log n, etc.
+- So n³ + n² + log n is O(n³)
+  This is like adding pennies to millions - the pennies become negligible.
