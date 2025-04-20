@@ -88,5 +88,5 @@ Asymptotic analysis is a method used to describe the limiting behavior of a func
 - Focus on Growth Rate: Asymptotic analysis focuses on the rate at which an algorithm's resource usage (e.g., time or space) grows as the input size increases.
 - Asymptotic Notations: It employs mathematical notations like Big O, Big Omega, and Big Theta to express these growth rates.
 - Ignoring Constants: Constant factors and specific input sizes are often ignored because they become less relevant as the input grows large.
-  Scalability: Asymptotic analysis helps determine how well an algorithm will perform with larger datasets or inputs, providing insights into its scalability.
-  Performance Comparison: It allows for the comparison of different algorithms' efficiencies by looking at their asymptotic growth rates.
+- Scalability: Asymptotic analysis helps determine how well an algorithm will perform with larger datasets or inputs, providing insights into its scalability.
+- Performance Comparison: It allows for the comparison of different algorithms' efficiencies by looking at their asymptotic growth rates.
