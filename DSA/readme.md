@@ -97,4 +97,18 @@ Asymptotic analysis is a method used to describe the limiting behavior of a func
 - Big (Ω) - Lower Bound: In the best case scenario the algorithm will take this much time. Ex. You found the desired book at the first attempt.
 - Big (Θ) - Tight Bound: Describe the exact growth rate. The algorithm takes this much time in all cases. Used when the upper and lower bounds are the same.
 
-# The domination Rules
+## The domination Rules
+
+When combining multiple time complexities:
+
+Take the term with the highest growth rate.
+It dominates the rest as input size n grows large.
+This is called the “dominant term” rule in asymptotic analysis.
+
+Because Big-O is about growth trends, not exact counts.
+
+For large n:
+
+n³ grows much faster than n², which grows faster than n log n, etc.
+So n³ + n² + log n is O(n³)
+This is like adding pennies to millions - the pennies become negligible.
