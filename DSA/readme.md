@@ -65,4 +65,6 @@ Operation Meaning
 - Split => Divide a data collection into parts
 - Map => Apply a function to every element (common in functional programming)
 - Filter => Select elements based on a condition
-  Aggregate Compute a summary (sum, average, count, etc.)
+- Aggregate => Compute a summary (sum, average, count, etc.)
+
+## How to choose the correct data structure
