@@ -84,3 +84,9 @@ The following two programs are doing the same thing, sorting an array. Between t
 Asymptotic analysis is a method used to describe the limiting behavior of a function or algorithm as its input size increases towards infinity. It's particularly useful in computer science for understanding the efficiency and scalability of algorithms by focusing on how their performance changes with large inputs, ignoring constant factors and low-level details
 
 ### Key Concepts:
+
+- Focus on Growth Rate: Asymptotic analysis focuses on the rate at which an algorithm's resource usage (e.g., time or space) grows as the input size increases.
+  Asymptotic Notations: It employs mathematical notations like Big O, Big Omega, and Big Theta to express these growth rates.
+  Ignoring Constants: Constant factors and specific input sizes are often ignored because they become less relevant as the input grows large.
+  Scalability: Asymptotic analysis helps determine how well an algorithm will perform with larger datasets or inputs, providing insights into its scalability.
+  Performance Comparison: It allows for the comparison of different algorithms' efficiencies by looking at their asymptotic growth rates.
