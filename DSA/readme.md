@@ -68,3 +68,13 @@ Operation Meaning
 - Aggregate => Compute a summary (sum, average, count, etc.)
 
 ## How to choose the correct data structure
+
+Why do we need different data structures and algorithms?
+
+Analogy: Untidy Expensive Room vs Tidy Cheap Room
+
+We need to perform different operations to achieve different things. Some data structures are good at some operations while other data structures are good at some other operations. Based on the operations we need to decide which data structures will perform better. Sometimes, we need to use multiple data structures on same data for different operations.
+
+But how can we know which data structures will perform better on which data structures? How do we measure? What is the metric?
+
+The following two programs are doing the same thing, sorting an array. Between these two program which one will perform better?
