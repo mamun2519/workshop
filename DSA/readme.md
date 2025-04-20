@@ -101,9 +101,9 @@ Asymptotic analysis is a method used to describe the limiting behavior of a func
 
 When combining multiple time complexities:
 
-Take the term with the highest growth rate.
-It dominates the rest as input size n grows large.
-This is called the “dominant term” rule in asymptotic analysis.
+- Take the term with the highest growth rate.
+- It dominates the rest as input size n grows large.
+  This is called the “dominant term” rule in asymptotic analysis.
 
 Because Big-O is about growth trends, not exact counts.
 
