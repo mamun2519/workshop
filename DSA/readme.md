@@ -128,3 +128,21 @@ Space complexity includes:
 - Even though input size is not "created" by the algorithm, we usually include it when analyzing space complexity.
 - For example, if you're given an array of n integers, the input storage is O(n).
   ⚠️ Some analyses might exclude input size when focusing only on additional space used, but by default it's considered.
+
+### Temporary Variables
+
+These are variables created during the execution of an algorithm to store intermediate values.
+Examples: counters, accumulators, loop variables, etc.
+These usually take constant space, so they contribute O(1) unless you're using large or dynamic data types.
+Function Call Stack
+Each time a function is called, especially recursively, memory is allocated for:
+parameters
+return address
+local variables
+Recursive algorithms can have significant space complexity due to deep call stacks.
+For example, a recursive function that calls itself n times contributes O(n) space.
+Data Structures Used
+If your algorithm uses extra data structures (arrays, hash maps, trees, etc.), their size affects space complexity.
+For instance, an algorithm that creates a new array of size n uses O(n) additional space.
+Even if the input size is small, using large auxiliary structures increases the overall space requirement.
+Type of Data Structures
