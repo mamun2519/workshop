@@ -117,8 +117,7 @@ For large n:
 
 Space complexity includes:
 
-Input storage
-
+- Input storage
 - Temporary variables
 - Function call stack
 - Data structures used
