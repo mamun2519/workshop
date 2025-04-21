@@ -125,6 +125,6 @@ Space complexity includes:
 ### Input Storage
 
 - This refers to the space needed to store the input data to the algorithm.
-  Even though input size is not "created" by the algorithm, we usually include it when analyzing space complexity.
+- Even though input size is not "created" by the algorithm, we usually include it when analyzing space complexity.
   For example, if you're given an array of n integers, the input storage is O(n).
   ⚠️ Some analyses might exclude input size when focusing only on additional space used, but by default it's considered.
