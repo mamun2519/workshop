@@ -140,7 +140,7 @@ Space complexity includes:
 - Each time a function is called, especially recursively, memory is allocated for:
   - parameters
   - return address
-    local variables
+  - local variables
     Recursive algorithms can have significant space complexity due to deep call stacks.
     For example, a recursive function that calls itself n times contributes O(n) space.
     Data Structures Used
