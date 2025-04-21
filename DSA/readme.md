@@ -141,10 +141,10 @@ Space complexity includes:
   - parameters
   - return address
   - local variables
-    Recursive algorithms can have significant space complexity due to deep call stacks.
-    For example, a recursive function that calls itself n times contributes O(n) space.
-    Data Structures Used
-    If your algorithm uses extra data structures (arrays, hash maps, trees, etc.), their size affects space complexity.
-    For instance, an algorithm that creates a new array of size n uses O(n) additional space.
-    Even if the input size is small, using large auxiliary structures increases the overall space requirement.
-    Type of Data Structures
+- Recursive algorithms can have significant space complexity due to deep call stacks.
+  For example, a recursive function that calls itself n times contributes O(n) space.
+  Data Structures Used
+  If your algorithm uses extra data structures (arrays, hash maps, trees, etc.), their size affects space complexity.
+  For instance, an algorithm that creates a new array of size n uses O(n) additional space.
+  Even if the input size is small, using large auxiliary structures increases the overall space requirement.
+  Type of Data Structures
