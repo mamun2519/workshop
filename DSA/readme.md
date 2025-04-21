@@ -114,3 +114,16 @@ For large n:
   This is like adding pennies to millions - the pennies become negligible.
 
 ## Space Complexity
+
+Space complexity includes:
+
+Input storage
+
+- Temporary variables
+  Function call stack
+  Data structures used
+  Input Storage
+  This refers to the space needed to store the input data to the algorithm.
+  Even though input size is not "created" by the algorithm, we usually include it when analyzing space complexity.
+  For example, if you're given an array of n integers, the input storage is O(n).
+  ⚠️ Some analyses might exclude input size when focusing only on additional space used, but by default it's considered.
