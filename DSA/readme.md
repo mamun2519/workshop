@@ -133,7 +133,7 @@ Space complexity includes:
 
 - These are variables created during the execution of an algorithm to store intermediate values.
 - Examples: counters, accumulators, loop variables, etc.
-  These usually take constant space, so they contribute O(1) unless you're using large or dynamic data types.
+- These usually take constant space, so they contribute O(1) unless you're using large or dynamic data types.
   Function Call Stack
   Each time a function is called, especially recursively, memory is allocated for:
   parameters
