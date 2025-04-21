@@ -120,7 +120,7 @@ Space complexity includes:
 Input storage
 
 - Temporary variables
-  Function call stack
+- Function call stack
   Data structures used
   Input Storage
   This refers to the space needed to store the input data to the algorithm.
