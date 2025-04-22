@@ -158,3 +158,9 @@ A data structure is a way to organize, store, and access data efficiently so we 
 - Non Linear
 
 Linear Data Structures: In linear data structures, elements are arranged sequentially — one after another. Each element has a unique predecessor and successor (except the first and last).
+
+Structure Description
+Array Elements stored in contiguous memory locations, indexed.
+Linked List Nodes connected via pointers, flexible in size.
+Stack Follows LIFO (Last In First Out) principle.
+Queue Follows FIFO (First In First Out) principle.
