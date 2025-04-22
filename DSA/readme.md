@@ -172,3 +172,5 @@ Non-Linear Data Structures: In non-linear data structures, data is not arranged 
 - Trie => Tree-like structure used for string searching.
 
 ## Array
+
+An array is a linear data structure that stores elements in a contiguous block of memory. Each element in the array is identified by an index, which allows direct access to any element using that index.
