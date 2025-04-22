@@ -195,3 +195,5 @@ An array is a linear data structure that stores elements in a contiguous block o
 | Delete (Start)  | Remove first: `arr.shift()`                      | O(n)            | All elements shift left by one.                                   |
 | Delete (Middle) | `arr.splice(i, 1)`                               | O(n)            | Elements after index i shift left.                                |
 | Find (by value) | `arr.indexOf(val)` or `arr.includes(val)`        | O(n)            | Linear search. No built-in hashing/index map.                     |
+
+## Hash Table
