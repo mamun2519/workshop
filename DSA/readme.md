@@ -204,3 +204,9 @@ Think of it like a real-world dictionary:
 - You look up a word (the key)
 - And get its meaning (the value)
 - The book (hash table) organizes things so you can find any word quickly
+
+**Importance**:
+
+Speed: It provides super-fast access to data
+Search Efficiency: Unlike arrays or lists, you don’t need to scan everything to find a specific value
+Widely Used: It’s used everywhere—databases, caching, lookup tables, symbol tables in compilers, etc.
