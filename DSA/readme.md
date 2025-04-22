@@ -163,3 +163,5 @@ Linear Data Structures: In linear data structures, elements are arranged sequent
 - Linked List => Nodes connected via pointers, flexible in size.
 - Stack => Follows LIFO (Last In First Out) principle.
 - Queue => Follows FIFO (First In First Out) principle.
+
+Non-Linear Data Structures: In non-linear data structures, data is not arranged sequentially. Instead, it forms hierarchies or interconnected networks. Each element can be connected to multiple elements.
