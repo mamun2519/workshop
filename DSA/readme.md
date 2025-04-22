@@ -166,7 +166,7 @@ Linear Data Structures: In linear data structures, elements are arranged sequent
 
 Non-Linear Data Structures: In non-linear data structures, data is not arranged sequentially. Instead, it forms hierarchies or interconnected networks. Each element can be connected to multiple elements.
 
-- Tree Hierarchical structure with parent-child relationships.
-- Graph Collection of nodes (vertices) connected by edges (can be directional or bidirectional).
-- Heap Specialized tree with ordering properties.
-- Trie Tree-like structure used for string searching.
+- Tree => Hierarchical structure with parent-child relationships.
+- Graph => Collection of nodes (vertices) connected by edges (can be directional or bidirectional).
+- Heap => Specialized tree with ordering properties.
+- Trie => Tree-like structure used for string searching.
