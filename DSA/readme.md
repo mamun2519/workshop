@@ -177,7 +177,7 @@ An array is a linear data structure that stores elements in a contiguous block o
 
 An array is a linear data structure that stores elements in a contiguous block of memory. Each element in the array is identified by an index, which allows direct access to any element using that index.
 
-Core Characteristics
+### Core Characteristics
 
 - Fixed Indexing: Every element has a numeric index starting from 0.
 - Contiguous Memory: All elements are stored next to each other in memory.
