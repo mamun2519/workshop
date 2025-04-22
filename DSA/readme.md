@@ -169,4 +169,4 @@ Non-Linear Data Structures: In non-linear data structures, data is not arranged 
 - Tree Hierarchical structure with parent-child relationships.
 - Graph Collection of nodes (vertices) connected by edges (can be directional or bidirectional).
 - Heap Specialized tree with ordering properties.
-  Trie Tree-like structure used for string searching.
+- Trie Tree-like structure used for string searching.
