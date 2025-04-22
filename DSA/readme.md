@@ -155,4 +155,6 @@ Space complexity includes:
 A data structure is a way to organize, store, and access data efficiently so we can perform operations like searching, insertion, deletion, and modification. There are two different ways we can organize our data:
 
 - Linear
-  Non Linear
+- Non Linear
+
+Linear Data Structures: In linear data structures, elements are arranged sequentially — one after another. Each element has a unique predecessor and successor (except the first and last).
