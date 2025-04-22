@@ -180,6 +180,6 @@ An array is a linear data structure that stores elements in a contiguous block o
 Core Characteristics
 
 - Fixed Indexing: Every element has a numeric index starting from 0.
-  Contiguous Memory: All elements are stored next to each other in memory.
+- Contiguous Memory: All elements are stored next to each other in memory.
   Same Data Type (in low-level languages): Classic arrays hold elements of the same type (e.g., all integers).
   Efficient Access: Accessing any element is done in constant time → O(1).
