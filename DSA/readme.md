@@ -161,5 +161,5 @@ Linear Data Structures: In linear data structures, elements are arranged sequent
 
 - Array => Elements stored in contiguous memory locations, indexed.
 - Linked List => Nodes connected via pointers, flexible in size.
-  Stack Follows LIFO (Last In First Out) principle.
+- Stack => Follows LIFO (Last In First Out) principle.
   Queue Follows FIFO (First In First Out) principle.
