@@ -151,3 +151,8 @@ Space complexity includes:
 - Even if the input size is small, using large auxiliary structures increases the overall space requirement.
 
 ## Type of Data Structures
+
+A data structure is a way to organize, store, and access data efficiently so we can perform operations like searching, insertion, deletion, and modification. There are two different ways we can organize our data:
+
+Linear
+Non Linear
