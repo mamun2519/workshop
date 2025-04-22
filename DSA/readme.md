@@ -260,3 +260,10 @@ console.log(hashTable.get("age"));
 hashTable.remove("name");
 console.log(hashTable.get("name"));
 ```
+
+| Operation  | Best Case | Average Case | Worst Case |
+| ---------- | --------- | ------------ | ---------- |
+| Insert     | O(1)      | O(1)         | O(n)       |
+| Search/Get | O(1)      | O(1)         | O(n)       |
+| Delete     | O(1)      | O(1)         | O(n)       |
+| Update     | O(1)      | O(1)         | O(n)       |
