@@ -227,13 +227,5 @@ class HashTable {
   constructor() {
     this.table = new Array(10);
   }
-
-  #hash(key) {
-    let hash = 999;
-    for (let char of key) {
-      hash += char.charCodeAt(0);
-    }
-    return hash % this.table.length;
-  }
 }
 ```
