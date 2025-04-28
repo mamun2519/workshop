@@ -203,4 +203,3 @@ Think of it like a real-world dictionary:
 
 - You look up a word (the key)
 - And get its meaning (the value)
-- The book (hash table) organizes things so you can find any word quickly
