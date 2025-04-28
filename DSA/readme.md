@@ -206,5 +206,3 @@ Think of it like a real-world dictionary:
 - The book (hash table) organizes things so you can find any word quickly
 
 **Importance**:
-
-- **Speed:** It provides super-fast access to data
