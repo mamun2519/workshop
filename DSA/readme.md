@@ -210,5 +210,3 @@ Think of it like a real-world dictionary:
 - **Speed:** It provides super-fast access to data
 - ** Search Efficiency:** Unlike arrays or lists, you don’t need to scan everything to find a specific value
 - **Widely Used:** It’s used everywhere—databases, caching, lookup tables, symbol tables in compilers, etc.
-
-How Hash Table Works:
