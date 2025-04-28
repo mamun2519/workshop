@@ -223,9 +223,6 @@ To construct a Hash Table we need,
 **Coding Example: A simple hash table**
 
 ```js
-class HashTable {
-  constructor() {
-    this.table = new Array(10);
-  }
+
 }
 ```
