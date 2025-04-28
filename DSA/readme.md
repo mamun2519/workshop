@@ -253,5 +253,8 @@ class HashTable {
 }
 
 const hashTable = new HashTable();
-h;
+hashTable.set("name", "John");
+hashTable.set("age", 20);
+console.log(hashTable.get("name"));
+console.log(hashTable.get("age"));
 ```
