@@ -217,6 +217,8 @@ Hash table is basically a large array where the key represents an index. We use 
 To construct a Hash Table we need,
 
 - A fixed size array
+- Hash function
+- Get and Set method to access the Hash Table
 
 **Coding Example: A simple hash table**
 
