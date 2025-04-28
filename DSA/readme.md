@@ -208,4 +208,3 @@ Think of it like a real-world dictionary:
 **Importance**:
 
 - **Speed:** It provides super-fast access to data
-- ** Search Efficiency:** Unlike arrays or lists, you don’t need to scan everything to find a specific value
