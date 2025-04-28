@@ -263,6 +263,8 @@ console.log(hashTable.get("name"));
 
 Common Operations:
 
-| Operation | Best Case | Average Case | Worst Case |
-| --------- | --------- | ------------ | ---------- |
-| Insert    | O(1)      | O(1)         | O(n)       |
+| Operation  | Best Case | Average Case | Worst Case |
+| ---------- | --------- | ------------ | ---------- |
+| Insert     | O(1)      | O(1)         | O(n)       |
+| Search/Get | O(1)      | O(1)         | O(n)       |
+| Delete     | O(1)      | O(1)         | O(n)       |
