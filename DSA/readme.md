@@ -212,4 +212,3 @@ Think of it like a real-world dictionary:
 - **Widely Used:** It’s used everywhere—databases, caching, lookup tables, symbol tables in compilers, etc.
 
 How Hash Table Works:
-Hash table is basically a large array where the key represents an index. We use hash function to generate the index
