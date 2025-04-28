@@ -251,7 +251,4 @@ class HashTable {
     this.table[index] = undefined;
   }
 }
-
-const hashTable = new HashTable();
-h;
 ```
