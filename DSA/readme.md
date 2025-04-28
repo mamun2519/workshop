@@ -200,5 +200,3 @@ An array is a linear data structure that stores elements in a contiguous block o
 
 A Hash Table (also called Hash Map in many programming languages) is a data structure used to store key-value pairs. It allows you to insert, delete, and retrieve data very quickly—typically in constant time: O(1) on average.
 Think of it like a real-world dictionary:
-
-- You look up a word (the key)
