@@ -215,3 +215,12 @@ How Hash Table Works:
 Hash table is basically a large array where the key represents an index. We use hash function to generate the index from a given key. If we have the index, we can set or retrieve the value in constant time.
 
 To construct a Hash Table we need,
+
+- A fixed size array
+
+**Coding Example: A simple hash table**
+
+```js
+
+}
+```
