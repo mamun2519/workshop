@@ -260,5 +260,3 @@ console.log(hashTable.get("age"));
 hashTable.remove("name");
 console.log(hashTable.get("name"));
 ```
-
-Common Operations:
