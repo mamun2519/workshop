@@ -267,4 +267,3 @@ Common Operations:
 | ---------- | --------- | ------------ | ---------- |
 | Insert     | O(1)      | O(1)         | O(n)       |
 | Search/Get | O(1)      | O(1)         | O(n)       |
-| Delete     | O(1)      | O(1)         | O(n)       |
