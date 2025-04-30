@@ -258,5 +258,4 @@ hashTable.set("age", 20);
 console.log(hashTable.get("name"));
 console.log(hashTable.get("age"));
 hashTable.remove("name");
-console.log(hashTable.get("name"));
 ```
