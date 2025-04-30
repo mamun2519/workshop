@@ -264,3 +264,4 @@ console.log(hashTable.get("name"));
 Common Operations:
 
 | Operation | Best Case | Average Case | Worst Case |
+| --------- | --------- | ------------ | ---------- |
