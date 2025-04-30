@@ -265,3 +265,4 @@ Common Operations:
 
 | Operation | Best Case | Average Case | Worst Case |
 | --------- | --------- | ------------ | ---------- |
+| Insert    | O(1)      | O(1)         | O(n)       |
