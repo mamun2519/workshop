@@ -253,4 +253,5 @@ class HashTable {
 }
 
 const hashTable = new HashTable();
+hashTable.set("name", "John");
 ```
